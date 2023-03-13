@@ -1,0 +1,562 @@
+[
+  {
+    "key": ".",
+    "hideOnPopup": false,
+    "action": 3,
+    "title": ".edit this list",
+    "url": "chrome-extension://hfohmffbfcobmhfgpkbcjjaijmfplcdg/options/options.html",
+    "script": ""
+  },
+  {
+    "key": "AE",
+    "hideOnPopup": false,
+    "action": 3,
+    "title": "AlgoExpert",
+    "url": "https://www.algoexpert.io/blockchain/index",
+    "script": ""
+  },
+  {
+    "key": "AUR",
+    "hideOnPopup": false,
+    "action": 3,
+    "title": "AUR",
+    "url": "https://aur.archlinux.org/packages",
+    "script": ""
+  },
+  {
+    "key": "AWS",
+    "hideOnPopup": false,
+    "action": 3,
+    "title": "AWS",
+    "url": "https://console.aws.amazon.com",
+    "script": ""
+  },
+  {
+    "key": "BK",
+    "hideOnPopup": false,
+    "action": 3,
+    "title": "BKICT",
+    "url": "https://bkict.org",
+    "script": ""
+  },
+  {
+    "key": "CD",
+    "hideOnPopup": false,
+    "action": 3,
+    "title": "Conda",
+    "url": "https://anaconda.org/conda-forge/python",
+    "script": ""
+  },
+  {
+    "key": "CF",
+    "hideOnPopup": false,
+    "action": 3,
+    "title": "Codeforces",
+    "url": "https://codeforces.com",
+    "script": ""
+  },
+  {
+    "key": "CL",
+    "hideOnPopup": false,
+    "action": 3,
+    "title": "Colab",
+    "url": "https://colab.research.google.com",
+    "script": ""
+  },
+  {
+    "key": "CS",
+    "hideOnPopup": false,
+    "action": 3,
+    "title": "Coursera",
+    "url": "https://coursera.org",
+    "script": ""
+  },
+  {
+    "key": "CT",
+    "hideOnPopup": false,
+    "action": 3,
+    "title": "CTT",
+    "url": "https://ctt-sis.hust.edu.vn",
+    "script": ""
+  },
+  {
+    "key": "DC",
+    "hideOnPopup": false,
+    "action": 3,
+    "title": "Discord",
+    "url": "https://discord.com/app",
+    "script": ""
+  },
+  {
+    "key": "DH",
+    "hideOnPopup": false,
+    "action": 3,
+    "title": "Docker",
+    "url": "https://hub.docker.com",
+    "script": ""
+  },
+  {
+    "key": "DL",
+    "hideOnPopup": false,
+    "action": 3,
+    "title": "PapersWithCode",
+    "url": "https://paperswithcode.com/sota",
+    "script": ""
+  },
+  {
+    "key": "DO",
+    "hideOnPopup": false,
+    "action": 3,
+    "title": "Docs",
+    "url": "https://docs.google.com",
+    "script": ""
+  },
+  {
+    "key": "DR",
+    "hideOnPopup": false,
+    "action": 3,
+    "title": "Drive",
+    "url": "https://drive.google.com",
+    "script": ""
+  },
+  {
+    "key": "EL",
+    "hideOnPopup": false,
+    "action": 3,
+    "title": "NEU",
+    "url": "https://elearning.neu.edu.vn",
+    "script": ""
+  },
+  {
+    "key": "ET",
+    "hideOnPopup": false,
+    "action": 3,
+    "title": "Extensions",
+    "url": "https://chrome.google.com/webstore",
+    "script": ""
+  },
+  {
+    "key": "FB",
+    "hideOnPopup": false,
+    "action": 3,
+    "title": "Facebook",
+    "url": "https://facebook.com",
+    "script": ""
+  },
+  {
+    "key": "GB",
+    "hideOnPopup": false,
+    "action": 3,
+    "title": "Geekbench",
+    "url": "https://browser.geekbench.com/processor-benchmarks",
+    "script": ""
+  },
+  {
+    "key": "GC",
+    "hideOnPopup": false,
+    "action": 3,
+    "title": "Calendar",
+    "url": "https://calendar.google.com",
+    "script": ""
+  },
+  {
+    "key": "GG",
+    "hideOnPopup": false,
+    "action": 3,
+    "title": "Google",
+    "url": "https://google.com",
+    "script": ""
+  },
+  {
+    "key": "GH",
+    "hideOnPopup": false,
+    "action": 1,
+    "title": "Github",
+    "url": "https://github.com/1qh?tab=repositories",
+    "script": ""
+  },
+  {
+    "key": "GI",
+    "hideOnPopup": false,
+    "action": 3,
+    "title": "Gist",
+    "url": "https://gist.github.com/1qh",
+    "script": ""
+  },
+  {
+    "key": "GM",
+    "hideOnPopup": false,
+    "action": 3,
+    "title": "Gmail",
+    "url": "https://mail.google.com/",
+    "script": ""
+  },
+  {
+    "key": "GPT",
+    "hideOnPopup": false,
+    "action": 3,
+    "title": "ChatGPT",
+    "url": "https://chat.openai.com",
+    "script": ""
+  },
+  {
+    "key": "GT",
+    "hideOnPopup": false,
+    "action": 3,
+    "title": "Translate",
+    "url": "https://translate.google.com",
+    "script": ""
+  },
+  {
+    "key": "HA",
+    "hideOnPopup": false,
+    "action": 3,
+    "title": "Hop Am Chuan",
+    "url": "https://hopamchuan.com",
+    "script": ""
+  },
+  {
+    "key": "HF",
+    "hideOnPopup": false,
+    "action": 3,
+    "title": "Hugging Face",
+    "url": "https://huggingface.co",
+    "script": ""
+  },
+  {
+    "key": "HR",
+    "hideOnPopup": false,
+    "action": 3,
+    "title": "HackerRank",
+    "url": "https://hackerrank.com",
+    "script": ""
+  },
+  {
+    "key": "KE",
+    "hideOnPopup": false,
+    "action": 3,
+    "title": "Keep",
+    "url": "https://keep.google.com",
+    "script": ""
+  },
+  {
+    "key": "KG",
+    "hideOnPopup": false,
+    "action": 3,
+    "title": "Kaggle",
+    "url": "https://kaggle.com",
+    "script": ""
+  },
+  {
+    "key": "LC",
+    "hideOnPopup": false,
+    "action": 3,
+    "title": "Leet Code",
+    "url": "https://leetcode.com",
+    "script": ""
+  },
+  {
+    "key": "LI",
+    "hideOnPopup": false,
+    "action": 3,
+    "title": "LinkedIn",
+    "url": "https://linkedin.com",
+    "script": ""
+  },
+  {
+    "key": "LMS",
+    "hideOnPopup": false,
+    "action": 3,
+    "title": "LMS",
+    "url": "https://lms.hust.edu.vn",
+    "script": ""
+  },
+  {
+    "key": "MAP",
+    "hideOnPopup": false,
+    "action": 3,
+    "title": "Maps",
+    "url": "https://www.google.com/maps",
+    "script": ""
+  },
+  {
+    "key": "ME",
+    "hideOnPopup": false,
+    "action": 3,
+    "title": "Messenger",
+    "url": "https://www.facebook.com/messages",
+    "script": ""
+  },
+  {
+    "key": "ML",
+    "hideOnPopup": false,
+    "action": 3,
+    "title": "MadeWithML",
+    "url": "https://madewithml.com",
+    "script": ""
+  },
+  {
+    "key": "MS",
+    "hideOnPopup": false,
+    "action": 3,
+    "title": "ChiaSeNhac",
+    "url": "https://chiasenhac.vn",
+    "script": ""
+  },
+  {
+    "key": "MT",
+    "hideOnPopup": false,
+    "action": 3,
+    "title": "Teams",
+    "url": "https://teams.microsoft.com",
+    "script": ""
+  },
+  {
+    "key": "NPM",
+    "hideOnPopup": false,
+    "action": 3,
+    "title": "npm",
+    "url": "https://www.npmjs.com",
+    "script": ""
+  },
+  {
+    "key": "OD",
+    "hideOnPopup": false,
+    "action": 3,
+    "title": "OneDrive",
+    "url": "https://husteduvn-my.sharepoint.com/",
+    "script": ""
+  },
+  {
+    "key": "OL",
+    "hideOnPopup": false,
+    "action": 3,
+    "title": "Outlook",
+    "url": "https://outlook.office.com",
+    "script": ""
+  },
+  {
+    "key": "OV",
+    "hideOnPopup": false,
+    "action": 3,
+    "title": "Overleaf",
+    "url": "https://overleaf.com",
+    "script": ""
+  },
+  {
+    "key": "PD",
+    "hideOnPopup": false,
+    "action": 3,
+    "title": "Phind",
+    "url": "https://www.phind.com",
+    "script": ""
+  },
+  {
+    "key": "PM",
+    "hideOnPopup": false,
+    "action": 3,
+    "title": "pacman",
+    "url": "https://archlinux.org/packages",
+    "script": ""
+  },
+  {
+    "key": "PP",
+    "hideOnPopup": false,
+    "action": 3,
+    "title": "Photopea",
+    "url": "https://www.photopea.com",
+    "script": ""
+  },
+  {
+    "key": "PT",
+    "hideOnPopup": false,
+    "action": 3,
+    "title": "Pytorch",
+    "url": "https://pytorch.org/docs/stable/index.html",
+    "script": ""
+  },
+  {
+    "key": "PW",
+    "hideOnPopup": false,
+    "action": 3,
+    "title": "Password",
+    "url": "brave://settings/passwords",
+    "script": ""
+  },
+  {
+    "key": "QB",
+    "hideOnPopup": false,
+    "action": 3,
+    "title": "Quillbot",
+    "url": "https://quillbot.com",
+    "script": ""
+  },
+  {
+    "key": "QL",
+    "hideOnPopup": false,
+    "action": 3,
+    "title": "QLĐT",
+    "url": "https://qldt.hust.edu.vn",
+    "script": ""
+  },
+  {
+    "key": "RD",
+    "hideOnPopup": false,
+    "action": 3,
+    "title": "Reddit",
+    "url": "https://www.reddit.com",
+    "script": ""
+  },
+  {
+    "key": "SH",
+    "hideOnPopup": false,
+    "action": 3,
+    "title": "Sheets",
+    "url": "https://sheets.google.com",
+    "script": ""
+  },
+  {
+    "key": "SK",
+    "hideOnPopup": false,
+    "action": 3,
+    "title": "Scikit-learn",
+    "url": "https://scikit-learn.org/stable/user_guide.html",
+    "script": ""
+  },
+  {
+    "key": "SL",
+    "hideOnPopup": false,
+    "action": 3,
+    "title": "Slack",
+    "url": "https://app.slack.com/client",
+    "script": ""
+  },
+  {
+    "key": "SO",
+    "hideOnPopup": false,
+    "action": 3,
+    "title": "StackOverflow",
+    "url": "https://stackoverflow.com",
+    "script": ""
+  },
+  {
+    "key": "SP",
+    "hideOnPopup": false,
+    "action": 3,
+    "title": "Shopee",
+    "url": "https://shopee.vn",
+    "script": ""
+  },
+  {
+    "key": "ST",
+    "hideOnPopup": false,
+    "action": 3,
+    "title": "Stars",
+    "url": "https://github.com/1qh?tab=stars",
+    "script": ""
+  },
+  {
+    "key": "TE",
+    "hideOnPopup": false,
+    "action": 3,
+    "title": "Telegram",
+    "url": "https://web.telegram.org/",
+    "script": ""
+  },
+  {
+    "key": "TLH",
+    "hideOnPopup": false,
+    "action": 3,
+    "title": "TailieuHUST",
+    "url": "https://tailieuhust.com",
+    "script": ""
+  },
+  {
+    "key": "TT",
+    "hideOnPopup": false,
+    "action": 3,
+    "title": "tinhte",
+    "url": "https://tinhte.vn",
+    "script": ""
+  },
+  {
+    "key": "TW",
+    "hideOnPopup": false,
+    "action": 3,
+    "title": "Tailwind",
+    "url": "https://tailwindcss.com/docs",
+    "script": ""
+  },
+  {
+    "key": "TX",
+    "hideOnPopup": false,
+    "action": 3,
+    "title": "tuxa",
+    "url": "https://tuxa.neu.edu.vn/home/marks",
+    "script": ""
+  },
+  {
+    "key": "UG",
+    "hideOnPopup": false,
+    "action": 3,
+    "title": "Ultimate Guitar",
+    "url": "https://tabs.ultimate-guitar.com",
+    "script": ""
+  },
+  {
+    "key": "VC",
+    "hideOnPopup": false,
+    "action": 3,
+    "title": "Vercel",
+    "url": "https://vercel.com/templates",
+    "script": ""
+  },
+  {
+    "key": "VS",
+    "hideOnPopup": false,
+    "action": 3,
+    "title": "VSCode",
+    "url": "https://vscode.dev/github/1qh/z",
+    "script": ""
+  },
+  {
+    "key": "YL",
+    "hideOnPopup": false,
+    "action": 3,
+    "title": "yolo",
+    "url": "https://github.com/ultralytics/ultralytics",
+    "script": ""
+  },
+  {
+    "key": "YOU",
+    "hideOnPopup": false,
+    "action": 3,
+    "title": "you",
+    "url": "https://you.com",
+    "script": ""
+  },
+  {
+    "key": "YT",
+    "hideOnPopup": false,
+    "action": 1,
+    "title": "YouTube",
+    "url": "https://www.youtube.com/",
+    "script": ""
+  },
+  {
+    "key": "Z",
+    "hideOnPopup": false,
+    "action": 3,
+    "title": "Zalo",
+    "url": "https://chat.zalo.me",
+    "script": ""
+  },
+  {
+    "key": "`",
+    "hideOnPopup": false,
+    "action": 3,
+    "title": "~",
+    "url": "file:///home/o/",
+    "script": ""
+  }
+]

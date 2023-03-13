@@ -1,0 +1,11 @@
+window:
+  opacity: 0.8
+  decorations: None
+  startup_mode: Maximized
+font:
+  normal:
+    family: JetBrainsMono Nerd Font
+  size: 16
+colors:
+  primary:
+    background: "#000000"

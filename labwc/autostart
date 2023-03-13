@@ -1,0 +1,6 @@
+# swaybg -i b.jpg -m fill &
+# wlr-randr --output DP-2 --output eDP-1 --pos 2880,2160 &
+# wlr-randr --output HDMI-A-1 --output eDP-1 --pos 5760,540 &
+mako --layer=overlay --background-color=#000000 --font='SF Pro Display 24' --border-size=0 --padding=0 --margin=0 --outer-margin=20 --width=1000 --height=1000 &
+wlr-randr --output DP-1 --pos 1920,-1080 --output DP-3 --pos 0,0 &
+wlsunset -T 4001 &

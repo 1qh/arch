@@ -1,0 +1,277 @@
+<labwc_config>
+
+  <core>
+    <decoration>client</decoration>
+    <cycleViewPreview>yes</cycleViewPreview>
+    <adaptiveSync>yes</adaptiveSync>
+  </core>
+
+  <focus>
+    <raiseOnFocus>no</raiseOnFocus>
+    <followMouse>yes</followMouse>
+  </focus>
+
+  <desktops>
+    <popupTime>1000</popupTime>
+    <names>
+      <name>1</name>
+      <name>2</name>
+      <name>3</name>
+      <name>4</name>
+      <name>5</name>
+      <name>6</name>
+      <name>7</name>
+      <name>8</name>
+      <name>9</name>
+      <name>10</name>
+    </names>
+  </desktops>
+
+  <keyboard>
+    <keybind key="W-1">
+      <action name="GoToDesktop" to="1" />
+    </keybind>
+    <keybind key="W-2">
+      <action name="GoToDesktop" to="2" />
+    </keybind>
+    <keybind key="W-3">
+      <action name="GoToDesktop" to="3" />
+    </keybind>
+    <keybind key="W-4">
+      <action name="GoToDesktop" to="4" />
+    </keybind>
+    <keybind key="W-5">
+      <action name="GoToDesktop" to="5" />
+    </keybind>
+    <keybind key="W-6">
+      <action name="GoToDesktop" to="6" />
+    </keybind>
+    <keybind key="W-7">
+      <action name="GoToDesktop" to="7" />
+    </keybind>
+    <keybind key="W-8">
+      <action name="GoToDesktop" to="8" />
+    </keybind>
+    <keybind key="W-9">
+      <action name="GoToDesktop" to="9" />
+    </keybind>
+    <keybind key="W-0">
+      <action name="GoToDesktop" to="10" />
+    </keybind>
+    <keybind key="W-A-1">
+      <action name="SendToDesktop" to="1" />
+      <action name="GoToDesktop" to="1" />
+    </keybind>
+    <keybind key="W-A-2">
+      <action name="SendToDesktop" to="2" />
+      <action name="GoToDesktop" to="2" />
+    </keybind>
+    <keybind key="W-A-3">
+      <action name="SendToDesktop" to="3" />
+      <action name="GoToDesktop" to="3" />
+    </keybind>
+    <keybind key="W-A-4">
+      <action name="SendToDesktop" to="4" />
+      <action name="GoToDesktop" to="4" />
+    </keybind>
+    <keybind key="W-A-5">
+      <action name="SendToDesktop" to="5" />
+      <action name="GoToDesktop" to="5" />
+    </keybind>
+    <keybind key="W-A-6">
+      <action name="SendToDesktop" to="6" />
+      <action name="GoToDesktop" to="6" />
+    </keybind>
+    <keybind key="W-A-7">
+      <action name="SendToDesktop" to="7" />
+      <action name="GoToDesktop" to="7" />
+    </keybind>
+    <keybind key="W-A-8">
+      <action name="SendToDesktop" to="8" />
+      <action name="GoToDesktop" to="8" />
+    </keybind>
+    <keybind key="W-A-9">
+      <action name="SendToDesktop" to="9" />
+      <action name="GoToDesktop" to="9" />
+    </keybind>
+    <keybind key="W-A-0">
+      <action name="SendToDesktop" to="10" />
+      <action name="GoToDesktop" to="10" />
+    </keybind>
+    <keybind key="W-KP_7">
+      <action name="SnapToRegion" region="top-left" />
+    </keybind>
+    <keybind key="W-KP_8">
+      <action name="SnapToRegion" region="top" />
+    </keybind>
+    <keybind key="W-KP_9">
+      <action name="SnapToRegion" region="top-right" />
+    </keybind>
+    <keybind key="W-KP_4">
+      <action name="SnapToRegion" region="left" />
+    </keybind>
+    <keybind key="W-KP_5">
+      <action name="SnapToRegion" region="center" />
+    </keybind>
+    <keybind key="W-KP_6">
+      <action name="SnapToRegion" region="right" />
+    </keybind>
+    <keybind key="W-KP_1">
+      <action name="SnapToRegion" region="bottom-left" />
+    </keybind>
+    <keybind key="W-KP_2">
+      <action name="SnapToRegion" region="bottom" />
+    </keybind>
+    <keybind key="W-KP_3">
+      <action name="SnapToRegion" region="bottom-right" />
+    </keybind>
+    <keybind key="W-C-Left">
+      <action name="GoToDesktop" to="left" />
+    </keybind>
+    <keybind key="W-C-Right">
+      <action name="GoToDesktop" to="right" />
+    </keybind>
+    <keybind key="W-C-A-Left">
+      <action name="SendToDesktop" to="left" />
+      <action name="GoToDesktop" to="left" />
+    </keybind>
+    <keybind key="W-C-A-Right">
+      <action name="SendToDesktop" to="right" />
+      <action name="GoToDesktop" to="right" />
+    </keybind>
+    <keybind key="A-Escape">
+      <action name="Iconify" />
+    </keybind>
+    <keybind key="W-Print">
+      <action name="ToggleKeybinds" />
+    </keybind>
+    <keybind key="W-F11">
+      <action name="ToggleFullscreen" />
+    </keybind>
+    <keybind key="W-S-F11">
+      <action name="ToggleDecorations" />
+    </keybind>
+    <keybind key="W-S-r">
+      <action name="Reconfigure" />
+    </keybind>
+    <keybind key="A-Tab">
+      <action name="NextWindow" />
+    </keybind>
+    <keybind key="A-F4">
+      <action name="Close" />
+    </keybind>
+    <keybind key="W-a">
+      <action name="ToggleMaximize" />
+    </keybind>
+    <keybind key="A-Space">
+      <action name="Execute" command="fuzzel -fSFProDisplay:size=33 -l12 -w12 -C0 -bff -sff -t99999999 -Sffffffff -P8 -x25 -y25 -r30 --line-height=50 --layer=overlay -p'🔍  '" />
+    </keybind>
+    <keybind key="W-c">
+      <action name="Execute" command="code --enable-features=UseOzonePlatform --ozone-platform=wayland" />
+    </keybind>
+    <keybind key="W-F1">
+      <action name="Execute" command="microsoft-edge-stable --ozone-platform=wayland" />
+    </keybind>
+    <keybind key="W-F2">
+      <action name="Execute" command="microsoft-edge-stable --ozone-platform=wayland --inprivate" />
+    </keybind>
+    <keybind key="W-F3">
+      <action name="Execute" command="brave" />
+    </keybind>
+    <keybind key="W-F4">
+      <action name="Execute" command="brave --incognito" />
+    </keybind>
+    <keybind key="W-F12">
+      <action name="Execute" command="wlsunset -T 4001" />
+    </keybind>
+    <keybind key="W-s">
+      <action name="Execute" command="grimshot copy area" />
+    </keybind>
+    <keybind key="W-w">
+      <action name="Execute" command="grimshot copy active" />
+    </keybind>
+    <keybind key="C-S-Escape">
+      <action name="Execute" command="alacritty -e btm" />
+    </keybind>
+    <keybind key="W-e">
+      <action name="Execute" command="alacritty -e lf" />
+    </keybind>
+    <keybind key="W-S-e">
+      <action name="Execute" command="alacritty -e ncdu" />
+    </keybind>
+    <keybind key="W-S-i">
+      <action name="Execute" command="alacritty -e pulsemixer" />
+    </keybind>
+    <keybind key="W-m">
+      <action name="Execute" command="alacritty -e mocp -T /usr/share/moc/themes/transparent-background" />
+    </keybind>
+    <keybind key="W-i">
+      <action name="Execute" command="alacritty -e nmtui-connect" />
+    </keybind>
+    <keybind key="W-v">
+      <action name="Execute" command="neovide --neovim-bin ~/.local/bin/lvim --multigrid --maximized --frame none" />
+    </keybind>
+    <keybind key="W-Return">
+      <action name="Execute" command="alacritty" />
+    </keybind>
+    <keybind key="W-S-Return">
+      <action name="Execute" command="neovide --neovim-bin ~/.local/bin/lvim --multigrid --maximized --frame none -- -c 'ToggleTerm'" />
+    </keybind>
+    <keybind key="W-A-Return">
+      <action name="Execute" command="alacritty -e byobu" />
+    </keybind>
+    <keybind key="W-A-bracketleft">
+      <action name="Execute" command="alacritty msg config window.opacity=1" />
+    </keybind>
+    <keybind key="W-A-bracketright">
+      <action name="Execute" command="alacritty msg config window.opacity=0.5" />
+    </keybind>
+    <keybind key="W-Left">
+      <action name="SnapToEdge" direction="left" />
+    </keybind>
+    <keybind key="W-Right">
+      <action name="SnapToEdge" direction="right" />
+    </keybind>
+    <keybind key="W-Up">
+      <action name="SnapToEdge" direction="up" />
+    </keybind>
+    <keybind key="W-Down">
+      <action name="SnapToEdge" direction="down" />
+    </keybind>
+    <keybind key="XF86_AudioLowerVolume">
+      <action name="Execute" command="amixer sset Master 5%-" />
+    </keybind>
+    <keybind key="XF86_AudioRaiseVolume">
+      <action name="Execute" command="amixer sset Master 5%+" />
+    </keybind>
+    <keybind key="XF86_AudioMute">
+      <action name="Execute" command="amixer sset Master toggle" />
+    </keybind>
+    <keybind key="XF86_MonBrightnessUp">
+      <action name="Execute" command="brightnessctl set +10%" />
+    </keybind>
+    <keybind key="XF86_MonBrightnessDown">
+      <action name="Execute" command="brightnessctl set 10%-" />
+    </keybind>
+  </keyboard>
+
+  <mouse>
+    <context name="Frame">
+      <mousebind button="W-Left" action="Press">
+        <action name="Focus" />
+        <action name="Raise" />
+      </mousebind>
+      <mousebind button="W-Left" action="Drag">
+        <action name="Move" />
+      </mousebind>
+      <mousebind button="W-Right" action="Press">
+        <action name="Focus" />
+        <action name="Raise" />
+      </mousebind>
+      <mousebind button="W-Right" action="Drag">
+        <action name="Resize" />
+      </mousebind>
+    </context>
+  </mouse>
+
+</labwc_config>

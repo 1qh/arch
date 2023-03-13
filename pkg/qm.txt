@@ -1,0 +1,6 @@
+dmidecode
+dnsmasq
+iptables-nft
+qemu-full
+virt-manager
+virt-viewer
