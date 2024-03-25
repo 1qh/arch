@@ -1,0 +1,43 @@
+◆ ⌃ c  : Inverted
+◆   [  : Temperature -100
+◆   ]  : Temperature 100
+◆ ⌃ .  : Temperature 3900
+◆ ⌃ /  : Temperature 6500
+◆ ⇧ b  : brave --incognito
+◆   b  : brave [focus]
+◆   /  : btop
+◆ ⇧ c  : code $(fd -t d | sk)
+◆   c  : code [focus]
+◆ ⇧ e  : dua
+◆ ⇧ ⏎  : footclient
+◆   ⏎  : footclient [focus]
+⌥   ⎵  : fuzzel
+◆   s  : grimshot copy active
+◆ ⇧ s  : grimshot copy area
+◆   w  : microsoft-edge-stable
+◆ ⇧ w  : microsoft-edge-stable --inprivate
+◆   m  : mocp
+◆ ⌥ ⏎  : neovide
+◆   i  : nmtui-connect
+◆   n  : notesnook
+◆ ⇧ i  : pulsemixer
+◆ ⇧ v  : sleep 2; wl-paste -n | wtype -
+◆   g  : steam
+◆   v  : wl-paste -n | wtype -
+◆   e  : yazi
+◆ ⌃ ⏎  : ~/arch/script/myala.sh
+◆ ⌃ [  : ~/arch/script/opacity.sh -1
+◆ ⌃ ]  : ~/arch/script/opacity.sh 1
+◆   q  : ⌃f → ⌃v
+       :  
+◆   a  : === Maximize       ===
+◆   k  : === Keybinds       ===
+◆   f  : === Fullscreen     ===
+◆   t  : === AlwaysOnTop    ===
+◆ ⇧ r  : === Reconfigure    ===
+◆   -  : === ResizeRelative ===
+◆   =  : === ResizeRelative ===
+⌥   ⇥  : === NextWindow     ===
+⌥   ⎋  : === Iconify        ===
+⌥   F4 : === Close          ===
+◆ ⇧ F4 : === Exit           ===

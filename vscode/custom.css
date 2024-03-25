@@ -1,0 +1,79 @@
+/* 
+.quick-input-widget {
+    width: 100% !important;
+}
+.title.show-file-icons {
+    display: none !important;
+}
+*/
+.monaco-scrollable-element > .visible {
+  width: 0.1px !important;
+  height: 1px !important;
+}
+.sidebar .codicon {
+  display: none;
+}
+.editor-container,
+.editor-instance > div,
+.editor-scrollable,
+.overflow-guard {
+  height: 100% !important;
+}
+.open-editors
+  .monaco-icon-label
+  .monaco-icon-label-container
+  .monaco-icon-description-container
+  .label-description {
+  display: none;
+}
+.parameter-hints-widget {
+  max-height: 100% !important;
+}
+.phwrapper {
+  max-width: 100% !important;
+  max-height: 100% !important;
+}
+.phwrapper.monaco-scrollable-element {
+  max-width: 100% !important;
+  max-height: 100% !important;
+}
+.sidebar .explorer-viewlet .monaco-list-row {
+  margin-left: -0.6em;
+}
+.outline-tree .monaco-list-row {
+  margin-left: -1.8em;
+}
+[title*='Explorer'] {
+  display: none !important;
+}
+[title*='Open Editors'] {
+  display: none !important;
+}
+[title*='No Folder Opened'] {
+  display: none !important;
+}
+
+.tab-border-top-container {
+  border-radius: 20px !important;
+  -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
+  -webkit-mask-composite: xor;
+  padding: 2px;
+  height: calc(100% - 4px) !important;
+}
+.tab-border-top-container:before {
+  content: '';
+  width: 500px;
+  height: 500px;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  animation: spinner 3s cubic-bezier(0, 0, 1, 1) infinite;
+  background: conic-gradient(from 0deg, #ffffff00 180deg, #efa978 300deg, #d55c53 1turn),
+    conic-gradient(from 180deg, #ffffff00 180deg, #99e488 300deg, #3bd22a 1turn);
+}
+@keyframes spinner {
+  100% {
+    transform: translate(-50%, -50%) rotate(1turn);
+  }
+}

@@ -1,0 +1,826 @@
+[
+  {
+    "key": ".",
+    "hideOnPopup": false,
+    "action": 3,
+    "title": ".edit this list",
+    "url": "chrome-extension://hfohmffbfcobmhfgpkbcjjaijmfplcdg/options/options.html",
+    "script": ""
+  },
+  {
+    "key": "AC",
+    "hideOnPopup": false,
+    "action": 3,
+    "title": "Aceternity",
+    "url": "https://ui.aceternity.com/components",
+    "script": ""
+  },
+  {
+    "key": "AE",
+    "hideOnPopup": false,
+    "action": 3,
+    "title": "AlgoExpert",
+    "url": "https://algoexpert.io/blockchain/index",
+    "script": ""
+  },
+  {
+    "key": "AUR",
+    "hideOnPopup": false,
+    "action": 3,
+    "title": "AUR",
+    "url": "https://aur.archlinux.org/packages",
+    "script": ""
+  },
+  {
+    "key": "AWS",
+    "hideOnPopup": false,
+    "action": 3,
+    "title": "AWS",
+    "url": "https://console.aws.amazon.com",
+    "script": ""
+  },
+  {
+    "key": "BI",
+    "hideOnPopup": false,
+    "action": 3,
+    "title": "Bing",
+    "url": "https://www.bing.com/search?q=Bing+AI&showconv=1&FORM=hpcodx",
+    "script": ""
+  },
+  {
+    "key": "BK",
+    "hideOnPopup": false,
+    "action": 3,
+    "title": "BKICT",
+    "url": "https://bkict.org",
+    "script": ""
+  },
+  {
+    "key": "BR",
+    "hideOnPopup": false,
+    "action": 3,
+    "title": "Brew",
+    "url": "https://formulae.brew.sh",
+    "script": ""
+  },
+  {
+    "key": "BUN",
+    "hideOnPopup": false,
+    "action": 3,
+    "title": "bun",
+    "url": "https://github.com/oven-sh/bun",
+    "script": ""
+  },
+  {
+    "key": "CA",
+    "hideOnPopup": false,
+    "action": 3,
+    "title": "Chatbot Arena",
+    "url": "https://huggingface.co/spaces/lmsys/chatbot-arena-leaderboard",
+    "script": ""
+  },
+  {
+    "key": "CC",
+    "hideOnPopup": false,
+    "action": 3,
+    "title": "Choco",
+    "url": "https://community.chocolatey.org/packages",
+    "script": ""
+  },
+  {
+    "key": "CD",
+    "hideOnPopup": false,
+    "action": 3,
+    "title": "Conda",
+    "url": "https://prefix.dev/channels/conda-forge",
+    "script": ""
+  },
+  {
+    "key": "CF",
+    "hideOnPopup": false,
+    "action": 3,
+    "title": "Codeforces",
+    "url": "https://codeforces.com",
+    "script": ""
+  },
+  {
+    "key": "CL",
+    "hideOnPopup": false,
+    "action": 3,
+    "title": "GoogleCloud",
+    "url": "https://console.cloud.google.com",
+    "script": ""
+  },
+  {
+    "key": "CN",
+    "hideOnPopup": false,
+    "action": 3,
+    "title": "shadcn",
+    "url": "https://ui.shadcn.com/docs",
+    "script": ""
+  },
+  {
+    "key": "CO",
+    "hideOnPopup": false,
+    "action": 3,
+    "title": "Colab",
+    "url": "https://colab.research.google.com",
+    "script": ""
+  },
+  {
+    "key": "CS",
+    "hideOnPopup": false,
+    "action": 3,
+    "title": "Coursera",
+    "url": "https://coursera.org",
+    "script": ""
+  },
+  {
+    "key": "CT",
+    "hideOnPopup": false,
+    "action": 3,
+    "title": "CTT",
+    "url": "https://ctt-sis.hust.edu.vn",
+    "script": ""
+  },
+  {
+    "key": "DC",
+    "hideOnPopup": false,
+    "action": 3,
+    "title": "Discord",
+    "url": "https://discord.com/app",
+    "script": ""
+  },
+  {
+    "key": "DH",
+    "hideOnPopup": false,
+    "action": 3,
+    "title": "Docker",
+    "url": "https://hub.docker.com",
+    "script": ""
+  },
+  {
+    "key": "DL",
+    "hideOnPopup": false,
+    "action": 3,
+    "title": "PapersWithCode",
+    "url": "https://paperswithcode.com/sota",
+    "script": ""
+  },
+  {
+    "key": "DO",
+    "hideOnPopup": false,
+    "action": 3,
+    "title": "Docs",
+    "url": "https://docs.google.com",
+    "script": ""
+  },
+  {
+    "key": "DR",
+    "hideOnPopup": false,
+    "action": 3,
+    "title": "Drive",
+    "url": "https://drive.google.com",
+    "script": ""
+  },
+  {
+    "key": "EL",
+    "hideOnPopup": false,
+    "action": 3,
+    "title": "NEU",
+    "url": "https://elearning.neu.edu.vn",
+    "script": ""
+  },
+  {
+    "key": "EP",
+    "hideOnPopup": false,
+    "action": 3,
+    "title": "Expo",
+    "url": "https://docs.expo.dev",
+    "script": ""
+  },
+  {
+    "key": "ET",
+    "hideOnPopup": false,
+    "action": 3,
+    "title": "Extensions",
+    "url": "https://chrome.google.com/webstore",
+    "script": ""
+  },
+  {
+    "key": "EX",
+    "hideOnPopup": false,
+    "action": 3,
+    "title": "Excalidraw",
+    "url": "https://excalidraw.com",
+    "script": ""
+  },
+  {
+    "key": "FB",
+    "hideOnPopup": false,
+    "action": 3,
+    "title": "Facebook",
+    "url": "https://facebook.com",
+    "script": ""
+  },
+  {
+    "key": "FF",
+    "hideOnPopup": false,
+    "action": 3,
+    "title": "FastForward",
+    "url": "https://microsoftedge.microsoft.com/addons/detail/fastforward/ldcclmkclhomnpcnccgbgleikchbnecl",
+    "script": ""
+  },
+  {
+    "key": "FO",
+    "hideOnPopup": false,
+    "action": 3,
+    "title": "Foot",
+    "url": "https://codeberg.org/dnkl/foot#normal-mode",
+    "script": ""
+  },
+  {
+    "key": "GB",
+    "hideOnPopup": false,
+    "action": 3,
+    "title": "Geekbench",
+    "url": "https://browser.geekbench.com/processor-benchmarks",
+    "script": ""
+  },
+  {
+    "key": "GC",
+    "hideOnPopup": false,
+    "action": 3,
+    "title": "Calendar",
+    "url": "https://calendar.google.com",
+    "script": ""
+  },
+  {
+    "key": "GE",
+    "hideOnPopup": false,
+    "action": 3,
+    "title": "Gemini",
+    "url": "https://gemini.google.com",
+    "script": ""
+  },
+  {
+    "key": "GG",
+    "hideOnPopup": false,
+    "action": 3,
+    "title": "Google",
+    "url": "https://google.com",
+    "script": ""
+  },
+  {
+    "key": "GH",
+    "hideOnPopup": false,
+    "action": 1,
+    "title": "Github",
+    "url": "https://github.com/1qh?tab=repositories",
+    "script": ""
+  },
+  {
+    "key": "GI",
+    "hideOnPopup": false,
+    "action": 3,
+    "title": "Gist",
+    "url": "https://gist.github.com/1qh",
+    "script": ""
+  },
+  {
+    "key": "GM",
+    "hideOnPopup": false,
+    "action": 3,
+    "title": "Gmail",
+    "url": "https://mail.google.com",
+    "script": ""
+  },
+  {
+    "key": "GPT",
+    "hideOnPopup": false,
+    "action": 3,
+    "title": "ChatGPT",
+    "url": "https://chat.openai.com",
+    "script": ""
+  },
+  {
+    "key": "GT",
+    "hideOnPopup": false,
+    "action": 3,
+    "title": "Translate",
+    "url": "https://translate.google.com",
+    "script": ""
+  },
+  {
+    "key": "HA",
+    "hideOnPopup": false,
+    "action": 1,
+    "title": "HopAmChuan",
+    "url": "https://hopamchuan.com",
+    "script": ""
+  },
+  {
+    "key": "HF",
+    "hideOnPopup": false,
+    "action": 3,
+    "title": "Hugging Face",
+    "url": "https://huggingface.co",
+    "script": ""
+  },
+  {
+    "key": "HR",
+    "hideOnPopup": false,
+    "action": 3,
+    "title": "HackerRank",
+    "url": "https://hackerrank.com",
+    "script": ""
+  },
+  {
+    "key": "IG",
+    "hideOnPopup": false,
+    "action": 3,
+    "title": "Instagram",
+    "url": "https://instagram.com",
+    "script": ""
+  },
+  {
+    "key": "JS",
+    "hideOnPopup": false,
+    "action": 3,
+    "title": "BestJS",
+    "url": "https://bestofjs.org",
+    "script": ""
+  },
+  {
+    "key": "KE",
+    "hideOnPopup": false,
+    "action": 3,
+    "title": "Keep",
+    "url": "https://keep.google.com",
+    "script": ""
+  },
+  {
+    "key": "KG",
+    "hideOnPopup": false,
+    "action": 3,
+    "title": "Kaggle",
+    "url": "https://kaggle.com",
+    "script": ""
+  },
+  {
+    "key": "LC",
+    "hideOnPopup": false,
+    "action": 3,
+    "title": "Leet Code",
+    "url": "https://leetcode.com",
+    "script": ""
+  },
+  {
+    "key": "LI",
+    "hideOnPopup": false,
+    "action": 3,
+    "title": "LinkedIn",
+    "url": "https://linkedin.com",
+    "script": ""
+  },
+  {
+    "key": "LLM",
+    "hideOnPopup": false,
+    "action": 3,
+    "title": "LLM",
+    "url": "https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard",
+    "script": ""
+  },
+  {
+    "key": "LMS",
+    "hideOnPopup": false,
+    "action": 3,
+    "title": "LMS",
+    "url": "https://lms.hust.edu.vn",
+    "script": ""
+  },
+  {
+    "key": "MAP",
+    "hideOnPopup": false,
+    "action": 3,
+    "title": "Maps",
+    "url": "https://google.com/maps",
+    "script": ""
+  },
+  {
+    "key": "ME",
+    "hideOnPopup": false,
+    "action": 3,
+    "title": "Messenger",
+    "url": "https://facebook.com/messages",
+    "script": ""
+  },
+  {
+    "key": "ML",
+    "hideOnPopup": false,
+    "action": 3,
+    "title": "MadeWithML",
+    "url": "https://madewithml.com",
+    "script": ""
+  },
+  {
+    "key": "MS",
+    "hideOnPopup": false,
+    "action": 3,
+    "title": "ChiaSeNhac",
+    "url": "https://chiasenhac.vn",
+    "script": ""
+  },
+  {
+    "key": "MT",
+    "hideOnPopup": false,
+    "action": 3,
+    "title": "Teams",
+    "url": "https://teams.microsoft.com",
+    "script": ""
+  },
+  {
+    "key": "MV",
+    "hideOnPopup": false,
+    "action": 3,
+    "title": "Flixtor",
+    "url": "https://flixtor.video",
+    "script": ""
+  },
+  {
+    "key": "NB",
+    "hideOnPopup": false,
+    "action": 3,
+    "title": "Nineball",
+    "url": "https://nineball.prpbilliards.com/bracket",
+    "script": ""
+  },
+  {
+    "key": "NE",
+    "hideOnPopup": false,
+    "action": 3,
+    "title": "Next",
+    "url": "https://nextjs.org/docs",
+    "script": ""
+  },
+  {
+    "key": "NF",
+    "hideOnPopup": false,
+    "action": 3,
+    "title": "Netflix",
+    "url": "https://www.netflix.com",
+    "script": ""
+  },
+  {
+    "key": "NPM",
+    "hideOnPopup": false,
+    "action": 3,
+    "title": "npm",
+    "url": "https://npmjs.com",
+    "script": ""
+  },
+  {
+    "key": "NS",
+    "hideOnPopup": false,
+    "action": 3,
+    "title": "Notesnook",
+    "url": "https://app.notesnook.com",
+    "script": ""
+  },
+  {
+    "key": "OD",
+    "hideOnPopup": false,
+    "action": 3,
+    "title": "OneDrive",
+    "url": "https://husteduvn-my.sharepoint.com",
+    "script": ""
+  },
+  {
+    "key": "OF",
+    "hideOnPopup": false,
+    "action": 3,
+    "title": "Office",
+    "url": "https://office.com",
+    "script": ""
+  },
+  {
+    "key": "OL",
+    "hideOnPopup": false,
+    "action": 3,
+    "title": "Ollama",
+    "url": "https://ollama.ai/library?sort=newest",
+    "script": ""
+  },
+  {
+    "key": "OU",
+    "hideOnPopup": false,
+    "action": 3,
+    "title": "Outlook",
+    "url": "https://outlook.office.com",
+    "script": ""
+  },
+  {
+    "key": "OV",
+    "hideOnPopup": false,
+    "action": 3,
+    "title": "Overleaf",
+    "url": "https://overleaf.com",
+    "script": ""
+  },
+  {
+    "key": "PD",
+    "hideOnPopup": false,
+    "action": 3,
+    "title": "Phind",
+    "url": "https://phind.com",
+    "script": ""
+  },
+  {
+    "key": "PM",
+    "hideOnPopup": false,
+    "action": 3,
+    "title": "pacman",
+    "url": "https://archlinux.org/packages",
+    "script": ""
+  },
+  {
+    "key": "PP",
+    "hideOnPopup": false,
+    "action": 3,
+    "title": "Photopea",
+    "url": "https://photopea.com",
+    "script": ""
+  },
+  {
+    "key": "PT",
+    "hideOnPopup": false,
+    "action": 3,
+    "title": "Pytorch",
+    "url": "https://pytorch.org/docs/stable/index.html",
+    "script": ""
+  },
+  {
+    "key": "PW",
+    "hideOnPopup": false,
+    "action": 3,
+    "title": "Password",
+    "url": "chrome://settings/passwords",
+    "script": ""
+  },
+  {
+    "key": "PY",
+    "hideOnPopup": false,
+    "action": 3,
+    "title": "pypi",
+    "url": "https://pypi.org",
+    "script": ""
+  },
+  {
+    "key": "QB",
+    "hideOnPopup": false,
+    "action": 3,
+    "title": "Quillbot",
+    "url": "https://quillbot.com",
+    "script": ""
+  },
+  {
+    "key": "QL",
+    "hideOnPopup": false,
+    "action": 3,
+    "title": "QLĐT",
+    "url": "https://qldt.hust.edu.vn",
+    "script": ""
+  },
+  {
+    "key": "RD",
+    "hideOnPopup": false,
+    "action": 3,
+    "title": "Reddit",
+    "url": "https://reddit.com",
+    "script": ""
+  },
+  {
+    "key": "SH",
+    "hideOnPopup": false,
+    "action": 3,
+    "title": "Sheets",
+    "url": "https://sheets.google.com",
+    "script": ""
+  },
+  {
+    "key": "SK",
+    "hideOnPopup": false,
+    "action": 3,
+    "title": "Scikit-learn",
+    "url": "https://scikit-learn.org/stable/user_guide.html",
+    "script": ""
+  },
+  {
+    "key": "SL",
+    "hideOnPopup": false,
+    "action": 3,
+    "title": "Slack",
+    "url": "https://app.slack.com/client",
+    "script": ""
+  },
+  {
+    "key": "SN",
+    "hideOnPopup": false,
+    "action": 3,
+    "title": "SnapVideo",
+    "url": "https://snapvideo.io",
+    "script": ""
+  },
+  {
+    "key": "SO",
+    "hideOnPopup": false,
+    "action": 3,
+    "title": "StackOverflow",
+    "url": "https://stackoverflow.com",
+    "script": ""
+  },
+  {
+    "key": "SP",
+    "hideOnPopup": false,
+    "action": 3,
+    "title": "Shopee",
+    "url": "https://shopee.vn",
+    "script": ""
+  },
+  {
+    "key": "ST",
+    "hideOnPopup": false,
+    "action": 3,
+    "title": "Stars",
+    "url": "https://github.com/1qh?tab=stars",
+    "script": ""
+  },
+  {
+    "key": "SV",
+    "hideOnPopup": false,
+    "action": 3,
+    "title": "Svelte",
+    "url": "https://svelte.dev/docs",
+    "script": ""
+  },
+  {
+    "key": "TB",
+    "hideOnPopup": false,
+    "action": 3,
+    "title": "Tanstack Table",
+    "url": "https://tanstack.com/table/latest/docs",
+    "script": ""
+  },
+  {
+    "key": "TE",
+    "hideOnPopup": false,
+    "action": 3,
+    "title": "Telegram",
+    "url": "https://web.telegram.org",
+    "script": ""
+  },
+  {
+    "key": "TH",
+    "hideOnPopup": false,
+    "action": 3,
+    "title": "Threads",
+    "url": "https://threads.net",
+    "script": ""
+  },
+  {
+    "key": "TL",
+    "hideOnPopup": false,
+    "action": 3,
+    "title": "tldraw",
+    "url": "https://tldraw.com",
+    "script": ""
+  },
+  {
+    "key": "TR",
+    "hideOnPopup": false,
+    "action": 3,
+    "title": "Trends",
+    "url": "https://trends.google.com.vn/trends/explore",
+    "script": ""
+  },
+  {
+    "key": "TT",
+    "hideOnPopup": false,
+    "action": 3,
+    "title": "tinhte",
+    "url": "https://tinhte.vn",
+    "script": ""
+  },
+  {
+    "key": "TW",
+    "hideOnPopup": false,
+    "action": 3,
+    "title": "Tailwind",
+    "url": "https://tailwindcss.com/docs",
+    "script": ""
+  },
+  {
+    "key": "TX",
+    "hideOnPopup": false,
+    "action": 3,
+    "title": "tuxa",
+    "url": "https://tuxa.neu.edu.vn/home/marks",
+    "script": ""
+  },
+  {
+    "key": "UG",
+    "hideOnPopup": false,
+    "action": 3,
+    "title": "Ultimate Guitar",
+    "url": "https://tabs.ultimate-guitar.com",
+    "script": ""
+  },
+  {
+    "key": "VC",
+    "hideOnPopup": false,
+    "action": 3,
+    "title": "Vercel",
+    "url": "https://vercel.com",
+    "script": ""
+  },
+  {
+    "key": "VS",
+    "hideOnPopup": false,
+    "action": 3,
+    "title": "VSCode",
+    "url": "https://vscode.dev/github/1qh/z",
+    "script": ""
+  },
+  {
+    "key": "WD",
+    "hideOnPopup": false,
+    "action": 3,
+    "title": "WindowsISO",
+    "url": "https://windowsxlite.com",
+    "script": ""
+  },
+  {
+    "key": "WK",
+    "hideOnPopup": false,
+    "action": 3,
+    "title": "ArchWiki",
+    "url": "https://wiki.archlinux.org",
+    "script": ""
+  },
+  {
+    "key": "WL",
+    "hideOnPopup": false,
+    "action": 3,
+    "title": "Labwc",
+    "url": "https://github.com/labwc/labwc",
+    "script": ""
+  },
+  {
+    "key": "YL",
+    "hideOnPopup": false,
+    "action": 3,
+    "title": "yolo",
+    "url": "https://github.com/ultralytics/ultralytics",
+    "script": ""
+  },
+  {
+    "key": "YM",
+    "hideOnPopup": false,
+    "action": 3,
+    "title": "YoutubeMusic",
+    "url": "https://music.youtube.com",
+    "script": ""
+  },
+  {
+    "key": "YOU",
+    "hideOnPopup": false,
+    "action": 3,
+    "title": "you",
+    "url": "https://you.com",
+    "script": ""
+  },
+  {
+    "key": "YT",
+    "hideOnPopup": false,
+    "action": 1,
+    "title": "YouTube",
+    "url": "https://youtube.com",
+    "script": ""
+  },
+  {
+    "key": "Z",
+    "hideOnPopup": false,
+    "action": 3,
+    "title": "Zalo",
+    "url": "https://chat.zalo.me",
+    "script": ""
+  },
+  {
+    "key": "`",
+    "hideOnPopup": false,
+    "action": 3,
+    "title": "~",
+    "url": "file:///home/o",
+    "script": ""
+  }
+]

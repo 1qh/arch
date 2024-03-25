@@ -1,0 +1,9 @@
+boxmot
+contractions
+cvzone
+fuckit
+gibberish-detector
+labelme2yolo
+nomic
+pip-review
+pylspci

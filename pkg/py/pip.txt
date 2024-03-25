@@ -1,0 +1,7 @@
+docarray
+langchain
+open-interpreter
+pymupdf
+redlines
+vidgear
+yolov5

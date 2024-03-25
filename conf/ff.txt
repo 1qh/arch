@@ -1,0 +1,18 @@
+-l ~/.ans
+
+-s Break:Battery:Bios:Bluetooth:Board:Brightness:Chassis:Command:CPU:CPUUsage:Cursor:Custom:DateTime:DE:Display:Disk:Font:Gamepad:GPU:Host:Icons:Kernel:LM:Locale:LocalIp:Media:Memory:Monitor:OpenCL:OpenGL:OS:Packages:Player:PowerAdapter:Processes:Shell:Sound:Swap:Terminal:TerminalFont:TerminalSize:Theme:Uptime:Version:Vulkan:Wallpaper:WM:Wifi:WMTheme:Break:Colors
+
+--logo-padding-right 2
+--logo-padding-top 0
+
+--player-key "Player"
+--brightness-key "Bright"
+--processes-key "Process"
+--cpuusage-key "Usage"
+--packages-key "Package"
+--terminal-key "Term"
+--disk-key "Disk"
+--terminalfont-key "font"
+--terminalsize-key "size"
+--localip-key "IP"
+--datetime-key "Date"

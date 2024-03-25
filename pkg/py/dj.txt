@@ -1,0 +1,6 @@
+django-jazzmin
+django-phonenumber-field
+django-structlog
+django-tailwind
+django-widget-tweaks
+djangorestframework-simplejwt

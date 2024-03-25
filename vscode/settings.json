@@ -1,0 +1,6 @@
+{
+  "security.workspace.trust.untrustedFiles": "open",
+  "terminal.integrated.inheritEnv": false,
+  "update.mode": "manual",
+  "window.menuBarVisibility": "toggle"
+}
