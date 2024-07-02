@@ -1,0 +1,17 @@
+{
+  "auto_update": false,
+  "buffer_font_family": "JetBrainsMono Nerd Font Mono",
+  "buffer_font_size": 28,
+  "git": {
+    "inline_blame": {
+      "enabled": false
+    }
+  },
+  "project_panel": {
+    "button": false,
+    "indent_size": 30
+  },
+  "theme": "",
+  "ui_font_family": "SF Pro",
+  "ui_font_size": 28
+}

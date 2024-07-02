@@ -1,0 +1,5 @@
+# swaybg -i ~/arch/conf/bg.png -m center &
+foot -s -c ~/arch/conf/foot.ini &
+wl-gammarelay-rs run &
+mako --layer=overlay --default-timeout=2400 --ignore-timeout=1 --background-color=#000000 --font='SF Pro 24' --border-size=0 --padding=0 --margin=0 --outer-margin=20 --width=1000 --height=1000 &
+wlr-randr --output DP-1 --pos 1920,0 --output HDMI-A-1 --pos 0,0 --output eDP-1 --pos 960,1080 &
