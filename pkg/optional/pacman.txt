@@ -1,0 +1,9 @@
+evince
+foliate
+gimagereader-gtk
+gthumb
+inkscape
+lapce
+nfs-utils
+pdfarranger
+qalculate-gtk

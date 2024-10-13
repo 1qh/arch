@@ -1,0 +1,98 @@
+{
+  "$schema": "https://zed.dev/schema/themes/v0.1.0.json",
+  "author": "",
+  "name": "",
+  "themes": [
+    {
+      "appearance": "dark",
+      "name": "",
+      "style": {
+        "background": "#000",
+        "border": "#000",
+        "editor.active_line.background": "#222",
+        "editor.background": "#000",
+        "editor.document_highlight.read_background": "#333",
+        "editor.foreground": "#999",
+        "editor.gutter.background": "#000",
+        "editor.indent_guide": "#222",
+        "editor.line_number": "#222",
+        "ghost_element.hover": "#222",
+        "ghost_element.selected": "#222",
+        "hint": "#333",
+        "panel.background": "#000",
+        "status_bar.background": "#000",
+        "syntax": {
+          "attribute": {
+            "color": "#A6E22E"
+          },
+          "boolean": {
+            "color": "#AE81FF"
+          },
+          "comment": {
+            "color": "#444"
+          },
+          "comment.doc": {
+            "color": "#444"
+          },
+          "constant": {
+            "color": "#AE81FF"
+          },
+          "constructor": {
+            "color": "#F92672"
+          },
+          "function": {
+            "color": "#A6E22E"
+          },
+          "keyword": {
+            "color": "#F92672"
+          },
+          "number": {
+            "color": "#AE81FF"
+          },
+          "operator": {
+            "color": "#F92672"
+          },
+          "punctuation": {
+            "color": "#666"
+          },
+          "string": {
+            "color": "#E6DB74"
+          },
+          "string.escape": {
+            "color": "#AE81FF"
+          },
+          "string.regex": {
+            "color": "#E6DB74"
+          },
+          "string.special": {
+            "color": "#E6DB74"
+          },
+          "string.special.symbol": {
+            "color": "#E6DB74"
+          },
+          "tag": {
+            "color": "#F92672"
+          },
+          "text.literal": {
+            "color": "#E6DB74"
+          },
+          "type": {
+            "color": "#66d9ef",
+            "font_style": "italic"
+          },
+          "variable": {
+            "color": "#fff"
+          },
+          "variable.special": {
+            "color": "#F92672"
+          }
+        },
+        "tab.active_background": "#333",
+        "tab.inactive_background": "#000",
+        "tab_bar.background": "#000",
+        "title_bar.background": "#000",
+        "toolbar.background": "#000"
+      }
+    }
+  ]
+}
