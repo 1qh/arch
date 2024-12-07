@@ -1,0 +1,14 @@
+{
+  "custom-ui-style.electron": {
+    "frame": false,
+    "titleBarStyle": "hiddenInset",
+    "trafficLightPosition": {
+      "x": 2,
+      "y": 1
+    }
+  },
+  "security.workspace.trust.untrustedFiles": "open",
+  "update.mode": "manual",
+  "window.customTitleBarVisibility": "never",
+  "window.titleBarStyle": "native"
+}

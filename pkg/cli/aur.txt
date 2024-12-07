@@ -1,0 +1,5 @@
+bun-bin
+dotacat
+micromamba-bin
+ntfysh-bin
+paru-bin
