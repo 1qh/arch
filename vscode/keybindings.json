@@ -1,0 +1,82 @@
+[
+  {
+    "command": "settings.cycle.dark",
+    "key": "shift+alt+x"
+  },
+  {
+    "command": "settings.cycle.focus",
+    "key": "f11"
+  },
+  {
+    "command": "settings.cycle.python_typechecking",
+    "key": "alt+t"
+  },
+  {
+    "command": "editor.action.fontZoomIn",
+    "key": "ctrl+=",
+    "when": "editorTextFocus"
+  },
+  {
+    "command": "editor.action.fontZoomOut",
+    "key": "ctrl+-",
+    "when": "editorTextFocus"
+  },
+  {
+    "command": "editor.action.fontZoomReset",
+    "key": "ctrl+alt+0",
+    "when": "editorTextFocus"
+  },
+  {
+    "command": "workbench.action.toggleAuxiliaryBar",
+    "key": "alt+o"
+  },
+  {
+    "command": "workbench.action.increaseViewSize",
+    "key": "ctrl+shift+="
+  },
+  {
+    "command": "workbench.action.decreaseViewSize",
+    "key": "ctrl+shift+-"
+  },
+  {
+    "command": "-workbench.action.files.newUntitledFile",
+    "key": "ctrl+n"
+  },
+  {
+    "command": "explorer.newFile",
+    "key": "ctrl+n"
+  },
+  {
+    "command": "explorer.newFolder",
+    "key": "ctrl+alt+n"
+  },
+  {
+    "command": "inlineFold.toggle",
+    "key": "alt+x"
+  },
+  {
+    "command": "editor.action.joinLines",
+    "key": "ctrl+j",
+    "when": "editorTextFocus"
+  },
+  {
+    "command": "-cursorDown",
+    "key": "ctrl+n",
+    "when": "textInputFocus"
+  },
+  {
+    "command": "-cursorLeft",
+    "key": "ctrl+b",
+    "when": "textInputFocus"
+  },
+  {
+    "command": "-cursorRight",
+    "key": "ctrl+f",
+    "when": "textInputFocus"
+  },
+  {
+    "command": "-cursorUp",
+    "key": "ctrl+p",
+    "when": "textInputFocus"
+  }
+]
