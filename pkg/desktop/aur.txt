@@ -1,0 +1,8 @@
+brave-bin
+grimshot
+labwc
+tex-fmt
+visual-studio-code-bin
+wl-gammarelay-rs
+wlrctl
+xcursor-flatbed
