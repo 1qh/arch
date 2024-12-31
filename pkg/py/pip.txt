@@ -1,0 +1,10 @@
+boxmot
+contractions
+cvzone
+libsql-experimental
+modal
+open-interpreter
+pydantic-ai
+redlines
+types-regex
+vidgear
