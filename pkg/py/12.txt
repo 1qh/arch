@@ -1,0 +1,13 @@
+catboost
+dvc-azure
+easyocr
+evidently>0.5
+faiss
+gradio>4
+lancedb
+mmsegmentation
+openvino>2024
+pyahocorasick
+shap
+streamlit-folium>0.23
+umap-learn

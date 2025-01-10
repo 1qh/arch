@@ -1,0 +1,69 @@
+{
+  "description": "by 1qh",
+  "manipulators": [
+    {
+      "from": {
+        "key_code": "caps_lock"
+      },
+      "to": [
+        {
+          "key_code": "right_command"
+        }
+      ],
+      "to_if_alone": [
+        {
+          "key_code": "escape"
+        }
+      ],
+      "type": "basic"
+    },
+    {
+      "from": {
+        "key_code": "slash",
+        "modifiers": {
+          "mandatory": [
+            "fn"
+          ]
+        }
+      },
+      "to": [
+        {
+          "shell_command": "open -a 'Brave Browser'"
+        }
+      ],
+      "type": "basic"
+    },
+    {
+      "from": {
+        "key_code": "return_or_enter",
+        "modifiers": {
+          "mandatory": [
+            "fn"
+          ]
+        }
+      },
+      "to": [
+        {
+          "shell_command": "open -a 'Ghostty'"
+        }
+      ],
+      "type": "basic"
+    },
+    {
+      "from": {
+        "key_code": "period",
+        "modifiers": {
+          "mandatory": [
+            "fn"
+          ]
+        }
+      },
+      "to": [
+        {
+          "shell_command": "open -a 'Visual Studio Code'"
+        }
+      ],
+      "type": "basic"
+    }
+  ]
+}
