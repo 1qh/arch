@@ -1,0 +1,6 @@
+bpython
+gunicorn
+imagemagick
+mlx-vlm
+newt
+playwright-python
