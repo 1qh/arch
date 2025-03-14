@@ -1,0 +1,7 @@
+arrowParens: 'avoid'
+bracketSameLine: true
+jsxSingleQuote: true
+semi: false
+printWidth: 100
+singleQuote: true
+trailingComma: 'none'
