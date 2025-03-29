@@ -1,0 +1,8 @@
+catboost
+dvc-azure
+easyocr
+evidently>0.5
+faiss
+gradio>4
+mmsegmentation
+shap
