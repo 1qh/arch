@@ -1,0 +1,8 @@
+btop
+cargo
+fd-find
+figlet
+fortune-mod
+fortunes
+ripgrep
+sd

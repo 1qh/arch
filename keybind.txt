@@ -1,0 +1,43 @@
+◆ ⌃ c  : Inverted
+◆   [  : Temperature -100
+◆   ]  : Temperature 100
+◆ ⌃ .  : Temperature 3900
+◆ ⌃ /  : Temperature 6500
+◆ ⇧ /  : brave --incognito
+◆   /  : brave [focus]
+◆   b  : btop
+◆ ⇧ .  : code [directory]
+◆   .  : code [focus]
+◆ ⇧ e  : dua
+◆   g  : foot -c ~/arch/conf/bigfoot.ini gh auth switch
+◆ ⇧ ⏎  : footclient
+◆   ⏎  : footclient [focus]
+⌥   ⎵  : fuzzel
+◆   s  : grimshot copy anything
+◆   m  : mocp
+◆ ⌥ ⏎  : neovide
+◆   i  : nmtui-connect
+◆   n  : notesnook
+◆ ⇧ i  : pulsemixer
+◆ ⇧ v  : sleep 2; wl-paste -n | wtype -
+◆ ⇧ g  : steam
+◆   v  : wl-paste -n | wtype -
+◆   e  : yazi
+◆ ⇧ z  : zeditor [directory]
+◆   z  : zeditor [focus]
+◆ ⌃ ⏎  : ~/arch/script/myala.sh
+◆ ⌃ [  : ~/arch/script/opacity.sh -1
+◆ ⌃ ]  : ~/arch/script/opacity.sh 1
+◆   q  : ⌃f → ⌃v
+       :  
+◆   a  : === Maximize       ===
+◆   k  : === Keybinds       ===
+◆   f  : === Fullscreen     ===
+◆   t  : === AlwaysOnTop    ===
+◆ ⇧ r  : === Reconfigure    ===
+◆   -  : === ResizeRelative ===
+◆   =  : === ResizeRelative ===
+⌥   ⇥  : === NextWindow     ===
+⌥   ⎋  : === Iconify        ===
+⌥   F4 : === Close          ===
+◆ ⇧ F4 : === Exit           ===
