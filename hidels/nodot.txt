@@ -1,0 +1,13 @@
+Desktop
+Documents
+Downloads
+Music
+Pictures
+Public
+R
+Templates
+Videos
+__pycache__
+micromamba
+runs
+tags

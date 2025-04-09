@@ -1,0 +1,10 @@
+autogen-agentchat
+catboost
+crawl4ai
+easyocr
+evidently>0.5
+faiss
+gradio>4
+mmsegmentation
+pyautogen
+shap
