@@ -1,0 +1,12 @@
+bandwhich
+broot
+du-dust
+dua-cli
+dysk
+eza
+lolcrab
+ouch
+skim
+sshx
+tokei
+zellij
