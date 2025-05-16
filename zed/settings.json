@@ -1,0 +1,35 @@
+{
+  "auto_update": false,
+  "buffer_font_family": "JetBrainsMono Nerd Font Mono",
+  "buffer_font_size": 32,
+  "buffer_line_height": {
+    "custom": 1.2
+  },
+  "code_actions_on_format": {
+    "source.fixAll.eslint": true
+  },
+  "git": {
+    "inline_blame": {
+      "enabled": false
+    }
+  },
+  "prettier": {
+    "allowed": true
+  },
+  "project_panel": {
+    "button": false,
+    "indent_size": 35
+  },
+  "relative_line_numbers": true,
+  "tab_bar": {
+    "show": false
+  },
+  "telemetry": {
+    "diagnostics": false,
+    "metrics": false
+  },
+  "theme": "",
+  "ui_font_family": "SF Pro",
+  "ui_font_size": 32,
+  "unstable.ui_density": "compact"
+}
