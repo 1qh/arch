@@ -1,0 +1,81 @@
+[
+  {
+    "command": "-cursorDown",
+    "key": "ctrl+n",
+    "when": "textInputFocus"
+  },
+  {
+    "command": "-cursorLeft",
+    "key": "ctrl+b",
+    "when": "textInputFocus"
+  },
+  {
+    "command": "-cursorRight",
+    "key": "ctrl+f",
+    "when": "textInputFocus"
+  },
+  {
+    "command": "-cursorUp",
+    "key": "ctrl+p",
+    "when": "textInputFocus"
+  },
+  {
+    "command": "-workbench.action.files.newUntitledFile",
+    "key": "ctrl+n"
+  },
+  {
+    "command": "-workbench.action.toggleFullScreen",
+    "key": "ctrl+cmd+f",
+    "when": "!isIOS"
+  },
+  {
+    "command": "editor.action.fontZoomIn",
+    "key": "ctrl+="
+  },
+  {
+    "command": "editor.action.fontZoomOut",
+    "key": "ctrl+-"
+  },
+  {
+    "command": "editor.action.fontZoomReset",
+    "key": "ctrl+shift+0"
+  },
+  {
+    "command": "explorer.newFile",
+    "key": "ctrl+n"
+  },
+  {
+    "command": "explorer.newFolder",
+    "key": "ctrl+alt+n"
+  },
+  {
+    "command": "inlineFold.toggle",
+    "key": "alt+x"
+  },
+  {
+    "command": "outline.focus",
+    "key": "alt+o"
+  },
+  {
+    "command": "settings.cycle.dark",
+    "key": "shift+alt+x"
+  },
+  {
+    "command": "settings.cycle.focus",
+    "key": "f11"
+  },
+  {
+    "command": "settings.cycle.python_typechecking",
+    "key": "alt+t"
+  },
+  {
+    "command": "workbench.action.decreaseViewWidth",
+    "key": "ctrl+alt+-",
+    "when": "!isAuxiliaryWindowFocusedContext"
+  },
+  {
+    "command": "workbench.action.increaseViewWidth",
+    "key": "ctrl+alt+=",
+    "when": "!isAuxiliaryWindowFocusedContext"
+  }
+]
