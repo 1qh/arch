@@ -1,0 +1,7 @@
+bun-bin
+micromamba-bin
+ngrok
+ntfysh-bin
+paru-bin
+turso-cli-bin
+wget2
