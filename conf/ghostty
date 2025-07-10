@@ -1,0 +1,10 @@
+adjust-cell-height = -11
+adjust-cell-width = -4
+background = 000000
+command = /opt/homebrew/bin/fish
+copy-on-select = true
+font-size = 17
+macos-titlebar-style = tabs
+quit-after-last-window-closed = true
+window-height = 400
+window-width = 900
