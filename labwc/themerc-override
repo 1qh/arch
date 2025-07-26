@@ -1,0 +1,10 @@
+border.width: 0
+padding.height: 0
+
+osd.bg.color: #000000cc
+osd.label.text.color: #ffffff99
+
+osd.window-switcher.width: 96%
+
+osd.workspace-switcher.boxes.height: 120
+osd.workspace-switcher.boxes.width: 189
