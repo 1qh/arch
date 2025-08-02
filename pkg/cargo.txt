@@ -1,0 +1,14 @@
+bandwhich
+broot
+cargo-update
+du-dust
+dua-cli
+dysk
+lolcrab
+ouch
+skim
+sshx
+tokei
+wl-gammarelay-rs
+yazi-fm
+zellij
