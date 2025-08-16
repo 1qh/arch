@@ -1,0 +1,4 @@
+pre-commit:
+  jobs:
+    - run: ruff check --fix --unsafe-fixes && ruff format
+    - run: bunx --bun @biomejs/biome@latest check --fix --unsafe

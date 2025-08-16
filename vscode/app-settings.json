@@ -1,0 +1,8 @@
+{
+  "security.workspace.trust.untrustedFiles": "open",
+  "telemetry.telemetryLevel": "off",
+  "update.mode": "manual",
+  "window.customTitleBarVisibility": "never",
+  "window.menuBarVisibility": "toggle",
+  "window.titleBarStyle": "native"
+}
