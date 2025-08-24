@@ -1,0 +1,15 @@
+bluetuith-bin
+clock-tui
+downgrade
+figlet-fonts-extra
+gmetronome
+imfile-bin
+jan-bin
+kalker-bin
+lazydocker-bin
+linux-wifi-hotspot
+localsend-bin
+notesnook-bin
+pacseek-bin
+parsec-bin
+wps-office
