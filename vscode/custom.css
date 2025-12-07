@@ -1,0 +1,161 @@
+.explorer-folders-view,
+.quick-input-list {
+  font-size: 20px;
+  font-weight: 300;
+}
+
+.tab {
+  padding: 0;
+  width: 0;
+  flex: 1;
+}
+
+.search-view .results {
+  margin-left: -0.7rem;
+}
+
+.scm-view .monaco-list-row {
+  margin-left: -0.25rem;
+}
+
+.outline-tree {
+  margin-left: -1.9rem;
+}
+
+.explorer-folders-view .monaco-list-row {
+  margin-left: -0.5rem;
+  padding: 0;
+}
+
+.composite.has-composite-bar.header-or-footer.footer {
+  padding: 0;
+}
+
+.monaco-icon-label:before {
+  padding-right: 3px;
+}
+
+.monaco-pane-view .pane > .pane-header h3.title {
+  text-transform: none;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 26px;
+  font-weight: 1;
+}
+
+.editor-group-container {
+  display: flex;
+  flex-direction: column;
+}
+
+.editor-group-container > .title {
+  order: 1;
+}
+
+.monaco-workbench .part.sidebar > .title > .title-label h2 {
+  text-transform: none;
+  font-size: 30px;
+  font-weight: 1;
+  margin-left: 6px;
+}
+
+.monaco-workbench .part.auxiliarybar > .title > .title-label h2 {
+  display: none;
+}
+
+.monaco-scrollable-element > .visible {
+  width: 1px;
+  height: 1px;
+}
+
+.monaco-workbench .part.statusbar > .items-container > .statusbar-item > .statusbar-item-label {
+  padding: 0 1px;
+  margin: 0;
+}
+
+.monaco-action-bar .action-label {
+  padding: 0;
+  border-radius: 0;
+}
+
+.search-view .search-widgets-container,
+.quick-input-list .quick-input-list-entry-action-bar .action-label.codicon {
+  margin: 0;
+  padding: 0;
+}
+
+.extension-list-item > .icon-container > .icon {
+  padding: 0 1px;
+}
+
+.quick-input-widget,
+.quick-input-list .monaco-list-row {
+  border-radius: 0;
+}
+
+.debug-pane .call-stack-state-message {
+  margin: 0;
+  flex: none;
+}
+
+.monaco-workbench .debug-hover-widget .monaco-list-row .expression,
+.monaco-workbench .debug-pane .monaco-list-row .expression {
+  font-size: 18px;
+  letter-spacing: -1px;
+}
+
+.debug-pane .debug-call-stack .stack-frame,
+.extension-list-item,
+.extension-list-item > .details > .description,
+.extension-list-item > .details > .footer,
+.extension-list-item > .details > .header-container,
+.extensions-viewlet > .header,
+.monaco-tl-twistie,
+.monaco-workbench
+  .pane-composite-part
+  > .header-or-footer
+  > .composite-bar-container
+  > .composite-bar
+  > .monaco-action-bar
+  .action-item.icon,
+.monaco-workbench
+  .pane-composite-part
+  > .title
+  > .composite-bar-container
+  > .composite-bar
+  > .monaco-action-bar
+  .action-item.icon,
+.monaco-workbench .part.editor > .content .editor-group-container > .title .editor-actions,
+.monaco-workbench .part.statusbar > .items-container > .statusbar-item.has-background-color > .statusbar-item-label,
+.monaco-workbench .part.statusbar > .items-container > .statusbar-item.left.first-visible-item,
+.monaco-workbench .part > .composite.title > .title-actions,
+.monaco-workbench .part > .title,
+.monaco-workbench .part > .title > .title-label,
+.quick-input-header,
+.quick-input-list .monaco-list,
+.quick-input-list .monaco-scrollable-element,
+.quick-input-list .quick-input-list-entry,
+.scm-view .monaco-tl-contents > div,
+.search-view .message,
+.suggest-input-container {
+  padding: 0;
+}
+
+.debug-pane .debug-call-stack .stack-frame > .file:not(:first-child),
+.debug-pane .debug-call-stack .stack-frame > .file > .file-name,
+.extensions-viewlet > .extensions .extension-list-item .monaco-action-bar,
+.extensions-viewlet > .extensions .extension-view-header .monaco-action-bar,
+.monaco-icon-label:after,
+.monaco-pane-view .pane > .pane-header > .actions,
+.monaco-pane-view .pane > .pane-header > .actions .action-item,
+.monaco-workbench .pane-composite-part > .title.has-composite-bar > .title-actions .monaco-action-bar .action-item,
+.monaco-workbench .part.auxiliarybar .title-actions .action-item,
+.monaco-workbench .part.editor > .content .editor-group-container > .title .editor-actions .action-item,
+.monaco-workbench .part.sidebar .title-actions .action-item,
+.monaco-workbench .part.statusbar > .items-container > .statusbar-item.right.last-visible-item,
+.pane-body .viewpane-filter-container:not(:empty),
+.pane-header .open-editors-dirty-count-container > .dirty-count.monaco-count-badge,
+.quick-input-list .quick-input-list-entry .quick-input-list-entry-keybinding,
+.quick-input-list .quick-input-list-entry-action-bar {
+  margin: 0;
+}
