@@ -1,0 +1,1122 @@
+[
+  {
+    "action": 3,
+    "hideOnPopup": false,
+    "key": ".",
+    "script": "",
+    "title": ".edit this list",
+    "url": "chrome-extension://hfohmffbfcobmhfgpkbcjjaijmfplcdg/options/options.html"
+  },
+  {
+    "action": 3,
+    "hideOnPopup": false,
+    "key": "3000",
+    "script": "",
+    "title": " ",
+    "url": "http://localhost:3000"
+  },
+  {
+    "action": 3,
+    "hideOnPopup": false,
+    "key": "AA",
+    "script": "",
+    "title": "Artificial Analysis",
+    "url": "https://artificialanalysis.ai"
+  },
+  {
+    "action": 3,
+    "hideOnPopup": false,
+    "key": "AC",
+    "script": "",
+    "title": "Aceternity",
+    "url": "https://ui.aceternity.com/components"
+  },
+  {
+    "action": 3,
+    "hideOnPopup": false,
+    "key": "AE",
+    "script": "",
+    "title": "AlgoExpert",
+    "url": "https://algoexpert.io/blockchain/index"
+  },
+  {
+    "action": 3,
+    "hideOnPopup": false,
+    "key": "AG",
+    "script": "",
+    "title": "Agno",
+    "url": "https://docs.agno.com"
+  },
+  {
+    "action": 3,
+    "hideOnPopup": false,
+    "key": "AH",
+    "script": "",
+    "title": "ArtifactHub",
+    "url": "https://artifacthub.io"
+  },
+  {
+    "action": 3,
+    "hideOnPopup": false,
+    "key": "AISDK",
+    "script": "",
+    "title": " ",
+    "url": "https://ai-sdk.dev/docs"
+  },
+  {
+    "action": 3,
+    "hideOnPopup": false,
+    "key": "ARK",
+    "script": "",
+    "title": "Arktype",
+    "url": "https://arktype.io"
+  },
+  {
+    "action": 3,
+    "hideOnPopup": false,
+    "key": "AUR",
+    "script": "",
+    "title": " ",
+    "url": "https://aur.archlinux.org/packages"
+  },
+  {
+    "action": 3,
+    "hideOnPopup": false,
+    "key": "AUTH",
+    "script": "",
+    "title": "better-auth",
+    "url": "https://better-auth.com"
+  },
+  {
+    "action": 3,
+    "hideOnPopup": false,
+    "key": "AWS",
+    "script": "",
+    "title": " ",
+    "url": "https://console.aws.amazon.com"
+  },
+  {
+    "action": 3,
+    "hideOnPopup": false,
+    "key": "BR",
+    "script": "",
+    "title": "Brew",
+    "url": "https://formulae.brew.sh"
+  },
+  {
+    "action": 3,
+    "hideOnPopup": false,
+    "key": "BS",
+    "script": "",
+    "title": "Blacksmith",
+    "url": "https://app.blacksmith.sh"
+  },
+  {
+    "action": 3,
+    "hideOnPopup": false,
+    "key": "BUN",
+    "script": "",
+    "title": " ",
+    "url": "https://github.com/oven-sh/bun"
+  },
+  {
+    "action": 3,
+    "hideOnPopup": false,
+    "key": "CAM",
+    "script": "",
+    "title": "CameraDecision",
+    "url": "https://cameradecision.com"
+  },
+  {
+    "action": 3,
+    "hideOnPopup": false,
+    "key": "CC",
+    "script": "",
+    "title": "Choco",
+    "url": "https://community.chocolatey.org/packages"
+  },
+  {
+    "action": 3,
+    "hideOnPopup": false,
+    "key": "CD",
+    "script": "",
+    "title": "Conda",
+    "url": "https://prefix.dev/channels/conda-forge"
+  },
+  {
+    "action": 3,
+    "hideOnPopup": false,
+    "key": "CF",
+    "script": "",
+    "title": "Codeforces",
+    "url": "https://codeforces.com"
+  },
+  {
+    "action": 3,
+    "hideOnPopup": false,
+    "key": "CL",
+    "script": "",
+    "title": "Claude",
+    "url": "https://claude.ai"
+  },
+  {
+    "action": 3,
+    "hideOnPopup": false,
+    "key": "CN",
+    "script": "",
+    "title": "shadcn",
+    "url": "https://ui.shadcn.com/docs"
+  },
+  {
+    "action": 3,
+    "hideOnPopup": false,
+    "key": "COPR",
+    "script": "",
+    "title": " ",
+    "url": "https://copr.fedorainfracloud.org"
+  },
+  {
+    "action": 3,
+    "hideOnPopup": false,
+    "key": "CPL",
+    "script": "",
+    "title": "Copilot",
+    "url": "https://copilot.microsoft.com"
+  },
+  {
+    "action": 3,
+    "hideOnPopup": false,
+    "key": "CPN",
+    "script": "",
+    "title": "Component Party",
+    "url": "https://component-party.dev"
+  },
+  {
+    "action": 3,
+    "hideOnPopup": false,
+    "key": "CR",
+    "script": "",
+    "title": "Crates",
+    "url": "https://crates.io"
+  },
+  {
+    "action": 3,
+    "hideOnPopup": false,
+    "key": "CS",
+    "script": "",
+    "title": "Coursera",
+    "url": "https://coursera.org"
+  },
+  {
+    "action": 3,
+    "hideOnPopup": false,
+    "key": "DC",
+    "script": "",
+    "title": "Discord",
+    "url": "https://discord.com/app"
+  },
+  {
+    "action": 3,
+    "hideOnPopup": false,
+    "key": "DH",
+    "script": "",
+    "title": "Docker",
+    "url": "https://hub.docker.com"
+  },
+  {
+    "action": 3,
+    "hideOnPopup": false,
+    "key": "DN",
+    "script": "",
+    "title": "Deno",
+    "url": "https://github.com/denoland/deno"
+  },
+  {
+    "action": 3,
+    "hideOnPopup": false,
+    "key": "DO",
+    "script": "",
+    "title": "Docs",
+    "url": "https://docs.google.com"
+  },
+  {
+    "action": 3,
+    "hideOnPopup": false,
+    "key": "DP",
+    "script": "",
+    "title": "DigitalPool",
+    "url": "https://digitalpool.com"
+  },
+  {
+    "action": 3,
+    "hideOnPopup": false,
+    "key": "DR",
+    "script": "",
+    "title": "Drizzle",
+    "url": "https://orm.drizzle.team/docs/overview"
+  },
+  {
+    "action": 3,
+    "hideOnPopup": false,
+    "key": "DS",
+    "script": "",
+    "title": "Deepseek",
+    "url": "https://chat.deepseek.com"
+  },
+  {
+    "action": 3,
+    "hideOnPopup": false,
+    "key": "EC",
+    "script": "",
+    "title": "Encore",
+    "url": "https://encore.dev"
+  },
+  {
+    "action": 3,
+    "hideOnPopup": false,
+    "key": "EDIT",
+    "script": "",
+    "title": "Edit Photo",
+    "url": "https://edit.photo"
+  },
+  {
+    "action": 3,
+    "hideOnPopup": false,
+    "key": "EL",
+    "script": "",
+    "title": "NEU",
+    "url": "https://elearning.neu.edu.vn"
+  },
+  {
+    "action": 3,
+    "hideOnPopup": false,
+    "key": "EP",
+    "script": "",
+    "title": "Expo",
+    "url": "https://docs.expo.dev"
+  },
+  {
+    "action": 3,
+    "hideOnPopup": false,
+    "key": "ES",
+    "script": "",
+    "title": "es-toolkit",
+    "url": "https://es-toolkit.dev/intro.html"
+  },
+  {
+    "action": 3,
+    "hideOnPopup": false,
+    "key": "ET",
+    "script": "",
+    "title": "Extensions",
+    "url": "https://chrome.google.com/webstore"
+  },
+  {
+    "action": 3,
+    "hideOnPopup": false,
+    "key": "EX",
+    "script": "",
+    "title": "Excalidraw",
+    "url": "https://excalidraw.com"
+  },
+  {
+    "action": 3,
+    "hideOnPopup": false,
+    "key": "FA",
+    "script": "",
+    "title": "Fireant",
+    "url": "https://fireant.vn"
+  },
+  {
+    "action": 3,
+    "hideOnPopup": false,
+    "key": "FB",
+    "script": "",
+    "title": "Facebook",
+    "url": "https://facebook.com"
+  },
+  {
+    "action": 3,
+    "hideOnPopup": false,
+    "key": "FF",
+    "script": "",
+    "title": "FastForward",
+    "url": "https://microsoftedge.microsoft.com/addons/detail/fastforward/ldcclmkclhomnpcnccgbgleikchbnecl"
+  },
+  {
+    "action": 3,
+    "hideOnPopup": false,
+    "key": "FO",
+    "script": "",
+    "title": "Foot",
+    "url": "https://codeberg.org/dnkl/foot#normal-mode"
+  },
+  {
+    "action": 3,
+    "hideOnPopup": false,
+    "key": "GB",
+    "script": "",
+    "title": "Geekbench",
+    "url": "https://browser.geekbench.com/processor-benchmarks"
+  },
+  {
+    "action": 3,
+    "hideOnPopup": false,
+    "key": "GCA",
+    "script": "",
+    "title": "Calendar",
+    "url": "https://calendar.google.com"
+  },
+  {
+    "action": 3,
+    "hideOnPopup": false,
+    "key": "GCO",
+    "script": "",
+    "title": "Colab",
+    "url": "https://colab.research.google.com"
+  },
+  {
+    "action": 3,
+    "hideOnPopup": false,
+    "key": "GCP",
+    "script": "",
+    "title": "GoogleCloud",
+    "url": "https://console.cloud.google.com"
+  },
+  {
+    "action": 3,
+    "hideOnPopup": false,
+    "key": "GDR",
+    "script": "",
+    "title": "Drive",
+    "url": "https://drive.google.com"
+  },
+  {
+    "action": 3,
+    "hideOnPopup": false,
+    "key": "GE",
+    "script": "",
+    "title": "Gemini",
+    "url": "https://gemini.google.com"
+  },
+  {
+    "action": 3,
+    "hideOnPopup": false,
+    "key": "GG",
+    "script": "",
+    "title": "Google",
+    "url": "https://google.com"
+  },
+  {
+    "action": 1,
+    "hideOnPopup": false,
+    "key": "GH",
+    "script": "",
+    "title": "Github",
+    "url": "https://github.com/1qh?tab=repositories"
+  },
+  {
+    "action": 3,
+    "hideOnPopup": false,
+    "key": "GI",
+    "script": "",
+    "title": "Gist",
+    "url": "https://gist.github.com/1qh"
+  },
+  {
+    "action": 3,
+    "hideOnPopup": false,
+    "key": "GM",
+    "script": "",
+    "title": "Gmail",
+    "url": "https://mail.google.com"
+  },
+  {
+    "action": 3,
+    "hideOnPopup": false,
+    "key": "GPT",
+    "script": "",
+    "title": "ChatGPT",
+    "url": "https://chatgpt.com"
+  },
+  {
+    "action": 3,
+    "hideOnPopup": false,
+    "key": "GTL",
+    "script": "",
+    "title": "Translate",
+    "url": "https://translate.google.com"
+  },
+  {
+    "action": 3,
+    "hideOnPopup": false,
+    "key": "GTR",
+    "script": "",
+    "title": "Trends",
+    "url": "https://trends.google.com.vn/trends/explore"
+  },
+  {
+    "action": 1,
+    "hideOnPopup": false,
+    "key": "HA",
+    "script": "",
+    "title": "HopAmChuan",
+    "url": "https://hopamchuan.com"
+  },
+  {
+    "action": 3,
+    "hideOnPopup": false,
+    "key": "HF",
+    "script": "",
+    "title": "HuggingFace",
+    "url": "https://huggingface.co"
+  },
+  {
+    "action": 3,
+    "hideOnPopup": false,
+    "key": "HR",
+    "script": "",
+    "title": "HackerRank",
+    "url": "https://hackerrank.com"
+  },
+  {
+    "action": 3,
+    "hideOnPopup": false,
+    "key": "IC",
+    "script": "",
+    "title": "Lucide Icon",
+    "url": "https://lucide.dev/icons"
+  },
+  {
+    "action": 3,
+    "hideOnPopup": false,
+    "key": "IG",
+    "script": "",
+    "title": "Instagram",
+    "url": "https://instagram.com"
+  },
+  {
+    "action": 3,
+    "hideOnPopup": false,
+    "key": "JS",
+    "script": "",
+    "title": "BestJS",
+    "url": "https://bestofjs.org"
+  },
+  {
+    "action": 3,
+    "hideOnPopup": false,
+    "key": "KD",
+    "script": "",
+    "title": "Kinde",
+    "url": "https://kinde.com"
+  },
+  {
+    "action": 3,
+    "hideOnPopup": false,
+    "key": "KE",
+    "script": "",
+    "title": "Keep",
+    "url": "https://keep.google.com"
+  },
+  {
+    "action": 3,
+    "hideOnPopup": false,
+    "key": "KG",
+    "script": "",
+    "title": "Kaggle",
+    "url": "https://kaggle.com"
+  },
+  {
+    "action": 3,
+    "hideOnPopup": false,
+    "key": "LC",
+    "script": "",
+    "title": "Leet Code",
+    "url": "https://leetcode.com"
+  },
+  {
+    "action": 3,
+    "hideOnPopup": false,
+    "key": "LI",
+    "script": "",
+    "title": "LinkedIn",
+    "url": "https://linkedin.com"
+  },
+  {
+    "action": 3,
+    "hideOnPopup": false,
+    "key": "LLM",
+    "script": "",
+    "title": " ",
+    "url": "https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard"
+  },
+  {
+    "action": 3,
+    "hideOnPopup": false,
+    "key": "LMA",
+    "script": "",
+    "title": "LMArena",
+    "url": "https://lmarena.ai"
+  },
+  {
+    "action": 3,
+    "hideOnPopup": false,
+    "key": "MAP",
+    "script": "",
+    "title": " ",
+    "url": "https://google.com/maps"
+  },
+  {
+    "action": 3,
+    "hideOnPopup": false,
+    "key": "ME",
+    "script": "",
+    "title": "Messenger",
+    "url": "https://messenger.com"
+  },
+  {
+    "action": 3,
+    "hideOnPopup": false,
+    "key": "MLX",
+    "script": "",
+    "title": " ",
+    "url": "https://huggingface.co/mlx-community/models"
+  },
+  {
+    "action": 3,
+    "hideOnPopup": false,
+    "key": "MS",
+    "script": "",
+    "title": "ChiaSeNhac",
+    "url": "https://chiasenhac.vn"
+  },
+  {
+    "action": 3,
+    "hideOnPopup": false,
+    "key": "MT",
+    "script": "",
+    "title": "Teams",
+    "url": "https://teams.microsoft.com"
+  },
+  {
+    "action": 3,
+    "hideOnPopup": false,
+    "key": "MWML",
+    "script": "",
+    "title": "MadeWithML",
+    "url": "https://madewithml.com"
+  },
+  {
+    "action": 3,
+    "hideOnPopup": false,
+    "key": "N8N",
+    "script": "",
+    "title": " ",
+    "url": "https://docs.n8n.io"
+  },
+  {
+    "action": 3,
+    "hideOnPopup": false,
+    "key": "NC",
+    "script": "",
+    "title": "nguonc",
+    "url": "https://phim.nguonc.com"
+  },
+  {
+    "action": 3,
+    "hideOnPopup": false,
+    "key": "NE",
+    "script": "",
+    "title": "NextJS",
+    "url": "https://nextjs.org/docs"
+  },
+  {
+    "action": 3,
+    "hideOnPopup": false,
+    "key": "NF",
+    "script": "",
+    "title": "Netflix",
+    "url": "https://netflix.com"
+  },
+  {
+    "action": 3,
+    "hideOnPopup": false,
+    "key": "NIRI",
+    "script": "",
+    "title": " ",
+    "url": "https://github.com/YaLTeR/niri"
+  },
+  {
+    "action": 3,
+    "hideOnPopup": false,
+    "key": "NPM",
+    "script": "",
+    "title": " ",
+    "url": "https://npmjs.com"
+  },
+  {
+    "action": 3,
+    "hideOnPopup": false,
+    "key": "NS",
+    "script": "",
+    "title": "Notesnook",
+    "url": "https://app.notesnook.com"
+  },
+  {
+    "action": 3,
+    "hideOnPopup": false,
+    "key": "OF",
+    "script": "",
+    "title": "Office",
+    "url": "https://office.com"
+  },
+  {
+    "action": 3,
+    "hideOnPopup": false,
+    "key": "OL",
+    "script": "",
+    "title": "Ollama",
+    "url": "https://ollama.com/search"
+  },
+  {
+    "action": 3,
+    "hideOnPopup": false,
+    "key": "OR",
+    "script": "",
+    "title": "OpenRouter",
+    "url": "https://openrouter.ai"
+  },
+  {
+    "action": 3,
+    "hideOnPopup": false,
+    "key": "OU",
+    "script": "",
+    "title": "Outlook",
+    "url": "https://outlook.office365.com"
+  },
+  {
+    "action": 3,
+    "hideOnPopup": false,
+    "key": "OV",
+    "script": "",
+    "title": "Overleaf",
+    "url": "https://overleaf.com"
+  },
+  {
+    "action": 3,
+    "hideOnPopup": false,
+    "key": "PB",
+    "script": "",
+    "title": "PirateBay",
+    "url": "https://thepiratebay.org"
+  },
+  {
+    "action": 3,
+    "hideOnPopup": false,
+    "key": "PDT",
+    "script": "",
+    "title": "PydanticAI",
+    "url": "https://ai.pydantic.dev"
+  },
+  {
+    "action": 3,
+    "hideOnPopup": false,
+    "key": "PH",
+    "script": "",
+    "title": "Phind",
+    "url": "https://phind.com"
+  },
+  {
+    "action": 3,
+    "hideOnPopup": false,
+    "key": "PM",
+    "script": "",
+    "title": "pacman",
+    "url": "https://archlinux.org/packages"
+  },
+  {
+    "action": 3,
+    "hideOnPopup": false,
+    "key": "PPL",
+    "script": "",
+    "title": "Perplexity",
+    "url": "https://perplexity.ai"
+  },
+  {
+    "action": 3,
+    "hideOnPopup": false,
+    "key": "PS",
+    "script": "",
+    "title": "Photopea",
+    "url": "https://photopea.com"
+  },
+  {
+    "action": 3,
+    "hideOnPopup": false,
+    "key": "PT",
+    "script": "",
+    "title": "Pytorch",
+    "url": "https://pytorch.org/docs/stable/index.html"
+  },
+  {
+    "action": 3,
+    "hideOnPopup": false,
+    "key": "PWC",
+    "script": "",
+    "title": "paperswithcode",
+    "url": "https://huggingface.co/pwc-archive"
+  },
+  {
+    "action": 3,
+    "hideOnPopup": false,
+    "key": "PY",
+    "script": "",
+    "title": "pypi",
+    "url": "https://pypi.org"
+  },
+  {
+    "action": 3,
+    "hideOnPopup": false,
+    "key": "QB",
+    "script": "",
+    "title": "Quillbot",
+    "url": "https://quillbot.com"
+  },
+  {
+    "action": 3,
+    "hideOnPopup": false,
+    "key": "RB",
+    "script": "",
+    "title": "React Bits",
+    "url": "https://reactbits.dev/components"
+  },
+  {
+    "action": 3,
+    "hideOnPopup": false,
+    "key": "RD",
+    "script": "",
+    "title": "Reddit",
+    "url": "https://reddit.com"
+  },
+  {
+    "action": 3,
+    "hideOnPopup": false,
+    "key": "RM",
+    "script": "",
+    "title": "roadmap",
+    "url": "https://roadmap.sh"
+  },
+  {
+    "action": 3,
+    "hideOnPopup": false,
+    "key": "RP",
+    "script": "",
+    "title": "rophim",
+    "url": "https://rophim.me"
+  },
+  {
+    "action": 3,
+    "hideOnPopup": false,
+    "key": "RT",
+    "script": "",
+    "title": "rutracker",
+    "url": "https://rutracker.org"
+  },
+  {
+    "action": 3,
+    "hideOnPopup": false,
+    "key": "RUFF",
+    "script": "",
+    "title": " ",
+    "url": "https://docs.astral.sh/ruff/rules"
+  },
+  {
+    "action": 3,
+    "hideOnPopup": false,
+    "key": "SC",
+    "script": "",
+    "title": "Scales",
+    "url": "https://pulse.berklee.edu/?id=4&lesson=73"
+  },
+  {
+    "action": 3,
+    "hideOnPopup": false,
+    "key": "SH",
+    "script": "",
+    "title": "Sheets",
+    "url": "https://sheets.google.com"
+  },
+  {
+    "action": 3,
+    "hideOnPopup": false,
+    "key": "SK",
+    "script": "",
+    "title": "Scikit-learn",
+    "url": "https://scikit-learn.org/stable/user_guide.html"
+  },
+  {
+    "action": 3,
+    "hideOnPopup": false,
+    "key": "SL",
+    "script": "",
+    "title": "Slack",
+    "url": "https://app.slack.com/client"
+  },
+  {
+    "action": 3,
+    "hideOnPopup": false,
+    "key": "SN",
+    "script": "",
+    "title": "SnapVideo",
+    "url": "https://snapvideo.io"
+  },
+  {
+    "action": 3,
+    "hideOnPopup": false,
+    "key": "SO",
+    "script": "",
+    "title": "StackOverflow",
+    "url": "https://stackoverflow.com"
+  },
+  {
+    "action": 3,
+    "hideOnPopup": false,
+    "key": "SP",
+    "script": "",
+    "title": "Shopee",
+    "url": "https://shopee.vn"
+  },
+  {
+    "action": 3,
+    "hideOnPopup": false,
+    "key": "ST",
+    "script": "",
+    "title": "Stars",
+    "url": "https://github.com/1qh?tab=stars"
+  },
+  {
+    "action": 3,
+    "hideOnPopup": false,
+    "key": "SVE",
+    "script": "",
+    "title": "Svelte",
+    "url": "https://svelte.dev/docs"
+  },
+  {
+    "action": 3,
+    "hideOnPopup": false,
+    "key": "SVG",
+    "script": "",
+    "title": "SVGL",
+    "url": "https://svgl.app"
+  },
+  {
+    "action": 3,
+    "hideOnPopup": false,
+    "key": "T3",
+    "script": "",
+    "title": " ",
+    "url": "https://github.com/t3-oss/create-t3-turbo"
+  },
+  {
+    "action": 3,
+    "hideOnPopup": false,
+    "key": "TAN",
+    "script": "",
+    "title": "Tanstack",
+    "url": "https://tanstack.com"
+  },
+  {
+    "action": 3,
+    "hideOnPopup": false,
+    "key": "TE",
+    "script": "",
+    "title": "Telegram",
+    "url": "https://web.telegram.org"
+  },
+  {
+    "action": 3,
+    "hideOnPopup": false,
+    "key": "TH",
+    "script": "",
+    "title": "Threads",
+    "url": "https://threads.net"
+  },
+  {
+    "action": 3,
+    "hideOnPopup": false,
+    "key": "TL",
+    "script": "",
+    "title": "tldraw",
+    "url": "https://tldraw.com"
+  },
+  {
+    "action": 3,
+    "hideOnPopup": false,
+    "key": "TR",
+    "script": "",
+    "title": "Trendshift",
+    "url": "https://trendshift.io"
+  },
+  {
+    "action": 3,
+    "hideOnPopup": false,
+    "key": "TS",
+    "script": "",
+    "title": "TotalTS",
+    "url": "https://totaltypescript.com"
+  },
+  {
+    "action": 3,
+    "hideOnPopup": false,
+    "key": "TT",
+    "script": "",
+    "title": "tinhte",
+    "url": "https://tinhte.vn"
+  },
+  {
+    "action": 3,
+    "hideOnPopup": false,
+    "key": "TUR",
+    "script": "",
+    "title": "Turso",
+    "url": "https://app.turso.tech"
+  },
+  {
+    "action": 3,
+    "hideOnPopup": false,
+    "key": "TW",
+    "script": "",
+    "title": "Tailwind",
+    "url": "https://tailwindcss.com/docs"
+  },
+  {
+    "action": 3,
+    "hideOnPopup": false,
+    "key": "TX",
+    "script": "",
+    "title": "tuxa",
+    "url": "https://tuxa.neu.edu.vn/home/marks"
+  },
+  {
+    "action": 3,
+    "hideOnPopup": false,
+    "key": "UG",
+    "script": "",
+    "title": "Ultimate Guitar",
+    "url": "https://tabs.ultimate-guitar.com"
+  },
+  {
+    "action": 3,
+    "hideOnPopup": false,
+    "key": "UH",
+    "script": "",
+    "title": "usehooks-ts",
+    "url": "https://usehooks-ts.com/introduction"
+  },
+  {
+    "action": 3,
+    "hideOnPopup": false,
+    "key": "VC",
+    "script": "",
+    "title": "Vercel",
+    "url": "https://vercel.com"
+  },
+  {
+    "action": 3,
+    "hideOnPopup": false,
+    "key": "VS",
+    "script": "",
+    "title": "VSCode",
+    "url": "https://vscode.dev/github/1qh/z"
+  },
+  {
+    "action": 3,
+    "hideOnPopup": false,
+    "key": "WD",
+    "script": "",
+    "title": "WindowsISO",
+    "url": "https://windowsxlite.com"
+  },
+  {
+    "action": 3,
+    "hideOnPopup": false,
+    "key": "WK",
+    "script": "",
+    "title": "ArchWiki",
+    "url": "https://wiki.archlinux.org"
+  },
+  {
+    "action": 3,
+    "hideOnPopup": false,
+    "key": "WNT",
+    "script": "",
+    "title": " ",
+    "url": "https://wntlivescores.com"
+  },
+  {
+    "action": 3,
+    "hideOnPopup": false,
+    "key": "WXT",
+    "script": "",
+    "title": " ",
+    "url": "https://wxt.dev"
+  },
+  {
+    "action": 3,
+    "hideOnPopup": false,
+    "key": "X",
+    "script": "",
+    "title": " ",
+    "url": "https://x.com"
+  },
+  {
+    "action": 3,
+    "hideOnPopup": false,
+    "key": "YL",
+    "script": "",
+    "title": "yolo",
+    "url": "https://github.com/ultralytics/ultralytics"
+  },
+  {
+    "action": 3,
+    "hideOnPopup": false,
+    "key": "YM",
+    "script": "",
+    "title": "YoutubeMusic",
+    "url": "https://music.youtube.com"
+  },
+  {
+    "action": 3,
+    "hideOnPopup": false,
+    "key": "YOU",
+    "script": "",
+    "title": " ",
+    "url": "https://you.com"
+  },
+  {
+    "action": 1,
+    "hideOnPopup": false,
+    "key": "YT",
+    "script": "",
+    "title": "YouTube",
+    "url": "https://youtube.com"
+  },
+  {
+    "action": 3,
+    "hideOnPopup": false,
+    "key": "ZALO",
+    "script": "",
+    "title": " ",
+    "url": "https://chat.zalo.me"
+  },
+  {
+    "action": 3,
+    "hideOnPopup": false,
+    "key": "ZOD",
+    "script": "",
+    "title": " ",
+    "url": "https://zod.dev"
+  }
+]
