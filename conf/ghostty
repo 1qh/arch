@@ -1,0 +1,11 @@
+adjust-cell-height = -11
+adjust-cell-width = -4
+background = 000000
+command = TERM=xterm-256color /usr/bin/fish
+copy-on-select = true
+font-size = 25
+macos-titlebar-style = tabs
+quit-after-last-window-closed = true
+window-decoration = none
+window-height = 400
+window-width = 900

@@ -1,0 +1,393 @@
+<labwc_config>
+
+  <core>
+    <adaptiveSync>yes</adaptiveSync>
+    <decoration>server</decoration>
+  </core>
+
+  <windowRules>
+    <windowRule identifier="*" serverDecoration="no" />
+  </windowRules>
+
+  <focus>
+    <followMouse>yes</followMouse>
+    <followMouseRequiresMovement>yes</followMouseRequiresMovement>
+    <raiseOnFocus>no</raiseOnFocus>
+  </focus>
+
+  <theme>
+    <cornerRadius>0</cornerRadius>
+    <keepBorder>no</keepBorder>
+    <font place="OnScreenDisplay">
+      <name>SF Pro</name>
+      <size>50</size>
+    </font>
+  </theme>
+
+  <windowSwitcher>
+    <fields>
+      <field content="title" width="100%" />
+    </fields>
+  </windowSwitcher>
+
+  <desktops number="10">
+    <names>
+      <name>1</name>
+      <name>2</name>
+      <name>3</name>
+      <name>4</name>
+      <name>5</name>
+      <name>6</name>
+      <name>7</name>
+      <name>8</name>
+      <name>9</name>
+      <name>10</name>
+    </names>
+  </desktops>
+
+  <keyboard>
+    <numlock>off</numlock>
+
+    <keybind key="W-Left">
+      <action name="SnapToEdge" direction="left" />
+    </keybind>
+    <keybind key="W-Right">
+      <action name="SnapToEdge" direction="right" />
+    </keybind>
+    <keybind key="W-Up">
+      <action name="SnapToEdge" direction="up" />
+    </keybind>
+    <keybind key="W-Down">
+      <action name="SnapToEdge" direction="down" />
+    </keybind>
+
+    <keybind key="W-S-Left">
+      <action name="MoveToEdge" direction="left" />
+    </keybind>
+    <keybind key="W-S-Right">
+      <action name="MoveToEdge" direction="right" />
+    </keybind>
+    <keybind key="W-S-Up">
+      <action name="MoveToEdge" direction="up" />
+    </keybind>
+    <keybind key="W-S-Down">
+      <action name="MoveToEdge" direction="down" />
+    </keybind>
+
+    <keybind key="W-KP_1">
+      <action name="SnapToRegion" region="bl" />
+    </keybind>
+    <keybind key="W-KP_2">
+      <action name="SnapToEdge" direction="down" />
+    </keybind>
+    <keybind key="W-KP_3">
+      <action name="SnapToRegion" region="br" />
+    </keybind>
+    <keybind key="W-KP_4">
+      <action name="SnapToEdge" direction="left" />
+    </keybind>
+    <keybind key="W-KP_5">
+      <action name="ToggleMaximize" />
+    </keybind>
+    <keybind key="W-KP_6">
+      <action name="SnapToEdge" direction="right" />
+    </keybind>
+    <keybind key="W-KP_7">
+      <action name="SnapToRegion" region="tl" />
+    </keybind>
+    <keybind key="W-KP_8">
+      <action name="SnapToEdge" direction="up" />
+    </keybind>
+    <keybind key="W-KP_9">
+      <action name="SnapToRegion" region="tr" />
+    </keybind>
+
+    <keybind key="W-l">
+      <action name="SnapToRegion" region="bl" />
+    </keybind>
+    <keybind key="W-semicolon">
+      <action name="SnapToRegion" region="br" />
+    </keybind>
+    <keybind key="W-o">
+      <action name="SnapToRegion" region="tl" />
+    </keybind>
+    <keybind key="W-p">
+      <action name="SnapToRegion" region="tr" />
+    </keybind>
+
+    <keybind key="W-1">
+      <action name="GoToDesktop" to="1" />
+    </keybind>
+    <keybind key="W-2">
+      <action name="GoToDesktop" to="2" />
+    </keybind>
+    <keybind key="W-3">
+      <action name="GoToDesktop" to="3" />
+    </keybind>
+    <keybind key="W-4">
+      <action name="GoToDesktop" to="4" />
+    </keybind>
+    <keybind key="W-5">
+      <action name="GoToDesktop" to="5" />
+    </keybind>
+    <keybind key="W-6">
+      <action name="GoToDesktop" to="6" />
+    </keybind>
+    <keybind key="W-7">
+      <action name="GoToDesktop" to="7" />
+    </keybind>
+    <keybind key="W-8">
+      <action name="GoToDesktop" to="8" />
+    </keybind>
+    <keybind key="W-9">
+      <action name="GoToDesktop" to="9" />
+    </keybind>
+    <keybind key="W-0">
+      <action name="GoToDesktop" to="10" />
+    </keybind>
+
+    <keybind key="W-C-1">
+      <action name="SendToDesktop" to="1" />
+    </keybind>
+    <keybind key="W-C-2">
+      <action name="SendToDesktop" to="2" />
+    </keybind>
+    <keybind key="W-C-3">
+      <action name="SendToDesktop" to="3" />
+    </keybind>
+    <keybind key="W-C-4">
+      <action name="SendToDesktop" to="4" />
+    </keybind>
+    <keybind key="W-C-5">
+      <action name="SendToDesktop" to="5" />
+    </keybind>
+    <keybind key="W-C-6">
+      <action name="SendToDesktop" to="6" />
+    </keybind>
+    <keybind key="W-C-7">
+      <action name="SendToDesktop" to="7" />
+    </keybind>
+    <keybind key="W-C-8">
+      <action name="SendToDesktop" to="8" />
+    </keybind>
+    <keybind key="W-C-9">
+      <action name="SendToDesktop" to="9" />
+    </keybind>
+    <keybind key="W-C-0">
+      <action name="SendToDesktop" to="10" />
+    </keybind>
+
+    <keybind key="W-C-Left">
+      <action name="GoToDesktop" to="left" />
+    </keybind>
+    <keybind key="W-C-Right">
+      <action name="GoToDesktop" to="right" />
+    </keybind>
+    <keybind key="W-C-A-Left">
+      <action name="SendToDesktop" to="left" />
+    </keybind>
+    <keybind key="W-C-A-Right">
+      <action name="SendToDesktop" to="right" />
+    </keybind>
+
+    <keybind key="W-k">
+      <action name="ToggleKeybinds" />
+    </keybind>
+    <keybind key="W-r">
+      <action name="ToggleMaximize" />
+    </keybind>
+    <keybind key="W-f">
+      <action name="ToggleFullscreen" />
+    </keybind>
+    <keybind key="W-t">
+      <action name="ToggleAlwaysOnTop" />
+    </keybind>
+    <keybind key="W-S-r">
+      <action name="Reconfigure" />
+    </keybind>
+
+    <keybind key="A-Tab">
+      <action name="NextWindow" />
+    </keybind>
+    <keybind key="A-Escape">
+      <action name="Iconify" />
+    </keybind>
+    <keybind key="A-F4">
+      <action name="Close" />
+    </keybind>
+    <keybind key="W-S-F4">
+      <action name="Exit" />
+    </keybind>
+
+    <keybind key="W-minus">
+      <action name="ResizeRelative" left="-16" right="-16" top="-9" bottom="-9" />
+    </keybind>
+    <keybind key="W-equal">
+      <action name="ResizeRelative" left="16" right="16" top="9" bottom="9" />
+    </keybind>
+
+    <keybind key="XF86_AudioLowerVolume">
+      <action name="Execute" command="wpctl set-volume @DEFAULT_AUDIO_SINK@ 0.1-" />
+    </keybind>
+    <keybind key="XF86_AudioRaiseVolume">
+      <action name="Execute" command="wpctl set-volume @DEFAULT_AUDIO_SINK@ 0.1+" />
+    </keybind>
+    <keybind key="XF86_AudioMute">
+      <action name="Execute" command="wpctl set-mute @DEFAULT_AUDIO_SINK@ toggle" />
+    </keybind>
+    <keybind key="XF86_MonBrightnessUp">
+      <action name="Execute" command="brightnessctl set +10%" />
+    </keybind>
+    <keybind key="XF86_MonBrightnessDown">
+      <action name="Execute" command="brightnessctl set 10%-" />
+    </keybind>
+
+    <keybind key="W-C-c">
+      <action name="Execute" command="busctl --user call rs.wl-gammarelay / rs.wl.gammarelay ToggleInverted" />
+    </keybind>
+    <keybind key="W-C-period">
+      <action name="Execute" command="busctl --user set-property rs.wl-gammarelay / rs.wl.gammarelay Temperature q 3900" />
+    </keybind>
+    <keybind key="W-C-slash">
+      <action name="Execute" command="busctl --user set-property rs.wl-gammarelay / rs.wl.gammarelay Temperature q 6500" />
+    </keybind>
+    <keybind key="W-C-S-period">
+      <action name="Execute" command="busctl --user -- call rs.wl-gammarelay / rs.wl.gammarelay UpdateTemperature n -100" />
+    </keybind>
+    <keybind key="W-C-S-slash">
+      <action name="Execute" command="busctl --user call rs.wl-gammarelay / rs.wl.gammarelay UpdateTemperature n 100" />
+    </keybind>
+
+    <keybind key="Print">
+      <action name="Execute" command="grimshot copy anything" />
+    </keybind>
+
+    <keybind key="A-Space">
+      <action name="Execute" command="fuzzel -fSFPro:size=30 -l12 -w12 -C00000000 -b000000ff -s000000ff -t99999999 -Sffffffff -P8 -x25 -y25 -r30 --line-height=35 --layer=overlay -p'🔍  '" />
+    </keybind>
+    <keybind key="W-g">
+      <action name="Execute" command="foot -c ~/arch/conf/bigfoot.ini gh auth switch" />
+    </keybind>
+    <keybind key="W-S-period">
+      <action name="Execute" command="foot -c ~/arch/conf/bigfoot.ini sh -c 'code --enable-features=UseOzonePlatform,WaylandWindowDecorations --ozone-platform-hint=wayland $(fd -E micromamba/ -t d | sk)'" />
+    </keybind>
+    <keybind key="W-period">
+      <action name="Execute" command="sh -c 'wlrctl window focus code || code --enable-features=UseOzonePlatform,WaylandWindowDecorations --ozone-platform-hint=wayland'" />
+    </keybind>
+    <keybind key="W-S-g">
+      <action name="Execute" command="steam" />
+    </keybind>
+    <keybind key="W-slash">
+      <action name="Execute" command="sh -c 'wlrctl window focus brave-browser || brave-browser --ozone-platform=wayland'" />
+    </keybind>
+    <keybind key="W-S-slash">
+      <action name="Execute" command="brave-browser --ozone-platform=wayland --incognito" />
+    </keybind>
+
+    <keybind key="W-Return">
+      <action name="Execute" command="sh -c 'wlrctl window focus com.mitchellh.ghostty || ghostty'" />
+    </keybind>
+    <keybind key="W-KP_Enter">
+      <action name="Execute" command="sh -c 'wlrctl window focus com.mitchellh.ghostty || ghostty'" />
+    </keybind>
+    <keybind key="W-C-Return">
+      <action name="Execute" command="~/arch/script/myala.sh" />
+    </keybind>
+    <keybind key="W-C-bracketleft">
+      <action name="Execute" command="~/arch/script/opacity.sh -1" />
+    </keybind>
+    <keybind key="W-C-bracketright">
+      <action name="Execute" command="~/arch/script/opacity.sh 1" />
+    </keybind>
+    <keybind key="W-b">
+      <action name="Execute" command="footclient btop" />
+    </keybind>
+    <keybind key="W-e">
+      <action name="Execute" command="footclient dua i" />
+    </keybind>
+    <keybind key="W-S-i">
+      <action name="Execute" command="footclient wiremix -v output" />
+    </keybind>
+    <keybind key="W-i">
+      <action name="Execute" command="footclient nmtui-connect" />
+    </keybind>
+    <keybind key="W-q">
+      <action name="Execute" command="sh -c 'wtype -M ctrl -k f -m ctrl; wtype -M ctrl -k v -m ctrl'" />
+    </keybind>
+    <keybind key="W-v">
+      <action name="Execute" command="sh -c 'wl-paste -n | wtype -'" />
+    </keybind>
+    <keybind key="W-S-v">
+      <action name="Execute" command="sh -c 'sleep 2; wl-paste -n | wtype -'" />
+    </keybind>
+  </keyboard>
+
+  <regions>
+    <region name="tl" x="0%" y="0%" height="50%" width="50%" />
+    <region name="tr" x="50%" y="0%" height="50%" width="50%" />
+    <region name="bl" x="0%" y="50%" height="50%" width="50%" />
+    <region name="br" x="50%" y="50%" height="50%" width="50%" />
+  </regions>
+
+  <mouse>
+    <context name="Frame">
+      <mousebind button="W-Left" action="Drag">
+        <action name="Move" />
+      </mousebind>
+      <mousebind button="W-Right" action="Drag">
+        <action name="Resize" />
+      </mousebind>
+      <mousebind button="W-Left" action="DoubleClick">
+        <action name="SnapToEdge" direction="left" />
+      </mousebind>
+      <mousebind button="W-Right" action="DoubleClick">
+        <action name="SnapToEdge" direction="right" />
+      </mousebind>
+      <mousebind button="W-Middle" action="Click">
+        <action name="ToggleMaximize" />
+      </mousebind>
+      <mousebind button="A-Right" action="Click">
+        <action name="Execute" command="sh -c 'wtype -M ctrl -k f -m ctrl; wtype -M ctrl -k v -m ctrl'" />
+      </mousebind>
+      <mousebind direction="W-Up" action="Scroll">
+        <action name="GoToDesktop" to="left" />
+      </mousebind>
+      <mousebind direction="W-Down" action="Scroll">
+        <action name="GoToDesktop" to="right" />
+      </mousebind>
+      <mousebind direction="A-Up" action="Scroll">
+        <action name="PreviousWindow" />
+      </mousebind>
+      <mousebind direction="A-Down" action="Scroll">
+        <action name="NextWindow" />
+      </mousebind>
+      <mousebind direction="W-A-Up" action="Scroll">
+        <action name="SendToDesktop" to="left" />
+      </mousebind>
+      <mousebind direction="W-A-Down" action="Scroll">
+        <action name="SendToDesktop" to="right" />
+      </mousebind>
+      <mousebind direction="S-Up" action="Scroll">
+        <action name="Execute" command="wtype -M ctrl -M shift -k tab -m ctrl -m shift" />
+      </mousebind>
+      <mousebind direction="S-Down" action="Scroll">
+        <action name="Execute" command="wtype -M ctrl -k tab -m ctrl" />
+      </mousebind>
+      <mousebind direction="W-C-Down" action="Scroll">
+        <action name="Execute" command="~/arch/script/opacity.sh -1" />
+      </mousebind>
+      <mousebind direction="W-C-Up" action="Scroll">
+        <action name="Execute" command="~/arch/script/opacity.sh 1" />
+      </mousebind>
+    </context>
+    <context name="Root">
+      <mousebind direction="W-Up" action="Scroll">
+        <action name="GoToDesktop" to="left" />
+      </mousebind>
+      <mousebind direction="W-Down" action="Scroll">
+        <action name="GoToDesktop" to="right" />
+      </mousebind>
+    </context>
+  </mouse>
+
+</labwc_config>

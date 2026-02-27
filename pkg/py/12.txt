@@ -1,0 +1,7 @@
+autogen-agentchat
+chainlit
+crawl4ai
+easyocr
+faiss
+mmsegmentation
+pyautogen

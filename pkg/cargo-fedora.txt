@@ -1,0 +1,6 @@
+cargo-update
+jaq
+lolcrab
+ouch
+sd
+wiremix

@@ -1,0 +1,173 @@
+{
+  "$schema": "https://biomejs.dev/schemas/latest/schema.json",
+  "assist": {
+    "actions": {
+      "source": {
+        "organizeImports": "off"
+      }
+    }
+  },
+  "css": {
+    "formatter": {
+      "enabled": true,
+      "quoteStyle": "single"
+    },
+    "parser": {
+      "tailwindDirectives": true
+    }
+  },
+  "files": {
+    "includes": [
+      "**",
+      "!!**/.cache",
+      "!!**/.next",
+      "!!**/.output",
+      "!!**/.venv",
+      "!!**/.wxt",
+      "!!**/_generated",
+      "!!**/bookmark.html",
+      "!!**/dist",
+      "!!**/playwright-report",
+      "!!**/test-results"
+    ]
+  },
+  "formatter": {
+    "indentStyle": "space",
+    "lineWidth": 123
+  },
+  "javascript": {
+    "formatter": {
+      "arrowParentheses": "asNeeded",
+      "bracketSameLine": true,
+      "jsxQuoteStyle": "single",
+      "quoteStyle": "single",
+      "semicolons": "asNeeded",
+      "trailingCommas": "none"
+    }
+  },
+  "json": {
+    "formatter": {
+      "trailingCommas": "none"
+    }
+  },
+  "linter": {
+    "domains": {
+      "next": "all",
+      "project": "all",
+      "qwik": "all",
+      "react": "all",
+      "solid": "all",
+      "tailwind": "all",
+      "test": "all",
+      "vue": "all"
+    },
+    "rules": {
+      "a11y": "error",
+      "complexity": "error",
+      "correctness": "error",
+      "nursery": "error",
+      "performance": "error",
+      "security": "error",
+      "style": "error",
+      "suspicious": "error"
+    }
+  },
+  "overrides": [
+    {
+      "includes": ["**/e2e/**"],
+      "linter": {
+        "rules": {
+          "performance": {
+            "noAwaitInLoops": "off"
+          }
+        }
+      }
+    },
+    {
+      "css": {
+        "parser": {
+          "tailwindDirectives": true
+        }
+      },
+      "includes": ["**"],
+      "linter": {
+        "rules": {
+          "a11y": {
+            "noNoninteractiveElementInteractions": "warn",
+            "noSvgWithoutTitle": "off",
+            "useAriaPropsForRole": "off",
+            "useFocusableInteractive": "off",
+            "useSemanticElements": "off"
+          },
+          "complexity": {
+            "noExcessiveCognitiveComplexity": "off",
+            "noExcessiveLinesPerFunction": "off"
+          },
+          "correctness": {
+            "noNestedComponentDefinitions": "off",
+            "noNodejsModules": "off",
+            "noProcessGlobal": "off",
+            "noSolidDestructuredProps": "off",
+            "noUndeclaredDependencies": "off",
+            "useQwikValidLexicalScope": "off",
+            "useExhaustiveDependencies": "off",
+            "useImageSize": "warn",
+            "noUnresolvedImports": "off",
+            "useImportExtensions": "off",
+            "useUniqueElementIds": "off"
+          },
+          "nursery": {
+            "noExcessiveLinesPerFile": "off",
+            "noFloatingPromises": "warn",
+            "noJsxPropsBind": "off",
+            "noLeakedRender": "off",
+            "noTernary": "off",
+            "noUnnecessaryConditions": "warn",
+            "useAwaitThenable": "off",
+            "useErrorCause": "warn",
+            "useExplicitType": "off",
+            "useGlobalThis": "warn",
+            "useSortedClasses": "off"
+          },
+          "performance": {
+            "noBarrelFile": "off",
+            "noImgElement": "warn",
+            "noNamespaceImport": "off",
+            "noReExportAll": "off",
+            "useSolidForComponent": "off"
+          },
+          "security": {
+            "noDangerouslySetInnerHtml": "off",
+            "noSecrets": "off"
+          },
+          "style": {
+            "noDefaultExport": "off",
+            "noExportedImports": "off",
+            "noImplicitBoolean": "off",
+            "noMagicNumbers": "off",
+            "noNestedTernary": "off",
+            "noJsxLiterals": "off",
+            "noProcessEnv": "warn",
+            "useBlockStatements": "off",
+            "useComponentExportOnlyModules": "off",
+            "useExplicitLengthCheck": "off",
+            "useExportsLast": "warn",
+            "useImportType": "off",
+            "useNamingConvention": "off",
+            "useSingleVarDeclarator": "off"
+          },
+          "suspicious": {
+            "noArrayIndexKey": "off",
+            "noAssignInExpressions": "off",
+            "noConsole": "off",
+            "noDocumentCookie": "off",
+            "noExplicitAny": "warn",
+            "noReactSpecificProps": "off",
+            "noUnknownAtRules": "off",
+            "useAwait": "warn"
+          }
+        }
+      }
+    }
+  ]
+}

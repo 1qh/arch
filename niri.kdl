@@ -1,0 +1,199 @@
+spawn-at-startup "sh" "-c" "fnott -c ~/arch/conf/fnott.ini"
+spawn-at-startup "sh" "-c" "foot -s -c ~/arch/conf/foot.ini"
+spawn-at-startup "wl-gammarelay-rs" "run"
+spawn-at-startup "xwayland-satellite"
+
+environment {
+    ELECTRON_OZONE_PLATFORM_HINT "auto"
+    DISPLAY ":0"
+}
+
+input {
+    touchpad {
+        tap
+        natural-scroll
+    }
+    focus-follows-mouse max-scroll-amount="49%"
+}
+
+gestures {
+    hot-corners {
+        off
+    }
+}
+
+output "eDP-1" {
+    scale 1
+}
+
+screenshot-path null
+
+layout {
+    gaps 0
+    default-column-width { proportion 1.0; }
+    focus-ring {
+        off
+    }
+    preset-column-widths {
+        proportion 0.5
+        proportion 1.0
+    }
+    preset-window-heights {
+        proportion 0.5
+        proportion 1.0
+    }
+    background-color "#000000"
+}
+
+window-rule {
+    match is-active=true
+    geometry-corner-radius 28
+    clip-to-geometry true
+}
+
+overview {
+    workspace-shadow {
+        off
+    }
+    backdrop-color "#0b0b0b"
+}
+
+prefer-no-csd
+
+binds {
+    Mod+F1 { show-hotkey-overlay; }
+    Alt+F4 { close-window; }
+
+    Alt+Grave hotkey-overlay-title="cycle" { spawn "~/arch/script/cycle.sh"; }
+    Alt+Space hotkey-overlay-title="spotlight" { spawn "sh" "-c" "fuzzel -fSFPro:size=30 -l12 -w12 -C00000000 -b000000ff -s000000ff -t99999999 -Sffffffff -P8 -x25 -y25 -r30 --line-height=35 --layer=overlay -p'🔍  '"; }
+    Mod+B hotkey-overlay-title="usage" { spawn "footclient" "btop"; }
+    Mod+E hotkey-overlay-title="finder" { spawn "footclient" "dua" "i"; }
+    Mod+I hotkey-overlay-title="wifi" { spawn "footclient" "nmtui-connect"; }
+    Mod+Period hotkey-overlay-title="editor" { spawn "sh" "-c" "wlrctl window focus code || code --enable-features=UseOzonePlatform,WaylandWindowDecorations --ozone-platform-hint=wayland"; }
+    Mod+Return hotkey-overlay-title="terminal" { spawn "sh" "-c" "wlrctl window focus com.mitchellh.ghostty || ghostty"; }
+    Mod+G hotkey-overlay-title="game" { spawn "sh" "-c" "wlrctl window focus heroic || heroic --enable-features=UseOzonePlatform,WaylandWindowDecorations --ozone-platform-hint=wayland"; }
+    Mod+Shift+I hotkey-overlay-title="volume" { spawn "footclient" "wiremix" "-v" "output"; }
+    Mod+Shift+Period hotkey-overlay-title="fuzzy open folder" { spawn "sh" "-c" "foot -c ~/arch/conf/bigfoot.ini sh -c 'code --enable-features=UseOzonePlatform,WaylandWindowDecorations --ozone-platform-hint=wayland $(fd -E micromamba/ -t d | sk)'"; }
+    Mod+Shift+Slash hotkey-overlay-title="incognito" { spawn "sh" "-c" "brave-browser --ozone-platform=wayland --incognito"; }
+    Mod+Slash hotkey-overlay-title="browser" { spawn "sh" "-c" "wlrctl window focus brave-browser || brave-browser --ozone-platform=wayland"; }
+
+    Mod+Ctrl+Period hotkey-overlay-title="gamma 3900" { spawn "sh" "-c" "busctl --user set-property rs.wl-gammarelay / rs.wl.gammarelay Temperature q 3900"; }
+    Mod+Ctrl+Slash hotkey-overlay-title="gamma 6500" { spawn "sh" "-c" "busctl --user set-property rs.wl-gammarelay / rs.wl.gammarelay Temperature q 6500"; }
+    Mod+Ctrl+Shift+Period hotkey-overlay-title="gamma - 100" { spawn "sh" "-c" "busctl --user -- call rs.wl-gammarelay / rs.wl.gammarelay UpdateTemperature n -100"; }
+    Mod+Ctrl+Shift+Slash hotkey-overlay-title="gamma + 100" { spawn "sh" "-c" "busctl --user call rs.wl-gammarelay / rs.wl.gammarelay UpdateTemperature n 100"; }
+
+    XF86AudioRaiseVolume { spawn "wpctl" "set-volume" "@DEFAULT_AUDIO_SINK@" "0.05+"; }
+    XF86AudioLowerVolume { spawn "wpctl" "set-volume" "@DEFAULT_AUDIO_SINK@" "0.05-"; }
+    XF86AudioMute        { spawn "wpctl" "set-mute" "@DEFAULT_AUDIO_SINK@" "toggle"; }
+    XF86AudioMicMute     { spawn "wpctl" "set-mute" "@DEFAULT_AUDIO_SOURCE@" "toggle"; }
+
+    XF86MonBrightnessUp { spawn "brightnessctl" "set" "+10%"; }
+    XF86MonBrightnessDown { spawn "brightnessctl" "set" "10%-"; }
+
+    Mod+Tab { toggle-overview; }
+
+    Mod+Left  { focus-column-left; }
+    Mod+Down  { focus-window-down; }
+    Mod+Up    { focus-window-up; }
+    Mod+Right { focus-column-right; }
+
+    Mod+Ctrl+Left  { move-column-left; }
+    Mod+Ctrl+Down  { move-window-down; }
+    Mod+Ctrl+Up    { move-window-up; }
+    Mod+Ctrl+Right { move-column-right; }
+
+    Mod+Home { focus-column-first; }
+    Mod+End  { focus-column-last; }
+    Mod+Ctrl+Home { move-column-to-first; }
+    Mod+Ctrl+End  { move-column-to-last; }
+
+    Mod+Shift+Left  { focus-monitor-left; }
+    Mod+Shift+Down  { focus-monitor-down; }
+    Mod+Shift+Up    { focus-monitor-up; }
+    Mod+Shift+Right { focus-monitor-right; }
+
+    Mod+Shift+Ctrl+Left  { move-column-to-monitor-left; }
+    Mod+Shift+Ctrl+Down  { move-column-to-monitor-down; }
+    Mod+Shift+Ctrl+Up    { move-column-to-monitor-up; }
+    Mod+Shift+Ctrl+Right { move-column-to-monitor-right; }
+
+    Mod+Page_Down      { focus-workspace-down; }
+    Mod+Page_Up        { focus-workspace-up; }
+    Mod+Ctrl+Page_Down { move-column-to-workspace-down; }
+    Mod+Ctrl+Page_Up   { move-column-to-workspace-up; }
+
+    Mod+Shift+Page_Down { move-workspace-down; }
+    Mod+Shift+Page_Up   { move-workspace-up; }
+
+    Mod+WheelScrollDown      cooldown-ms=150 { focus-workspace-down; }
+    Mod+WheelScrollUp        cooldown-ms=150 { focus-workspace-up; }
+    Mod+Ctrl+WheelScrollDown cooldown-ms=150 { move-column-to-workspace-down; }
+    Mod+Ctrl+WheelScrollUp   cooldown-ms=150 { move-column-to-workspace-up; }
+
+    Mod+WheelScrollRight      { focus-column-right; }
+    Mod+WheelScrollLeft       { focus-column-left; }
+    Mod+Ctrl+WheelScrollRight { move-column-right; }
+    Mod+Ctrl+WheelScrollLeft  { move-column-left; }
+
+    Mod+Shift+WheelScrollDown      { focus-column-right; }
+    Mod+Shift+WheelScrollUp        { focus-column-left; }
+    Mod+Ctrl+Shift+WheelScrollDown { move-column-right; }
+    Mod+Ctrl+Shift+WheelScrollUp   { move-column-left; }
+
+    Mod+1 { focus-workspace 1; }
+    Mod+2 { focus-workspace 2; }
+    Mod+3 { focus-workspace 3; }
+    Mod+4 { focus-workspace 4; }
+    Mod+5 { focus-workspace 5; }
+    Mod+6 { focus-workspace 6; }
+    Mod+7 { focus-workspace 7; }
+    Mod+8 { focus-workspace 8; }
+    Mod+9 { focus-workspace 9; }
+    Mod+Ctrl+1 { move-column-to-workspace 1; }
+    Mod+Ctrl+2 { move-column-to-workspace 2; }
+    Mod+Ctrl+3 { move-column-to-workspace 3; }
+    Mod+Ctrl+4 { move-column-to-workspace 4; }
+    Mod+Ctrl+5 { move-column-to-workspace 5; }
+    Mod+Ctrl+6 { move-column-to-workspace 6; }
+    Mod+Ctrl+7 { move-column-to-workspace 7; }
+    Mod+Ctrl+8 { move-column-to-workspace 8; }
+    Mod+Ctrl+9 { move-column-to-workspace 9; }
+
+    Mod+BracketLeft  { consume-or-expel-window-left; }
+    Mod+BracketRight { consume-or-expel-window-right; }
+
+    Mod+Semicolon  { consume-window-into-column; }
+    Mod+Apostrophe { expel-window-from-column; }
+
+    Mod+R { switch-preset-column-width; }
+    Mod+Shift+R { switch-preset-window-height; }
+    Mod+Ctrl+R { reset-window-height; }
+    Mod+F { fullscreen-window; }
+
+    Mod+Ctrl+F { expand-column-to-available-width; }
+
+    Mod+C { center-column; }
+
+    Mod+Ctrl+C { center-visible-columns; }
+
+    Mod+Minus { set-column-width "-10%"; }
+    Mod+Equal { set-column-width "+10%"; }
+
+    Mod+Shift+Minus { set-window-height "-10%"; }
+    Mod+Shift+Equal { set-window-height "+10%"; }
+
+    Mod+V       { toggle-window-floating; }
+    Mod+Shift+V { switch-focus-between-floating-and-tiling; }
+
+    Mod+W { toggle-column-tabbed-display; }
+
+    Print { screenshot; }
+    Ctrl+Print { screenshot-screen; }
+    Alt+Print { screenshot-window; }
+
+    Mod+K allow-inhibiting=false { toggle-keyboard-shortcuts-inhibit; }
+
+    Ctrl+Alt+Delete { quit; }
+
+    Mod+Shift+P { power-off-monitors; }
+}

@@ -1,0 +1,35 @@
+{
+  "blockman.n04ColorComboPreset": "Classic Dark 1 (Super gradients)",
+  "breadcrumbs.enabled": false,
+  "editor.cursorWidth": 5,
+  "editor.fontFamily": "JetBrainsMono NF",
+  "editor.fontSize": 24,
+  "editor.letterSpacing": -2,
+  "editor.lineHeight": 1,
+  "editor.scrollbar.horizontal": "hidden",
+  "json.schemaDownload.trustedDomains": {
+    "*": true
+  },
+  "material-icon-theme.hidesExplorerArrows": true,
+  "vscode_custom_css.imports": ["file://${userHome}/arch/vscode/custom.css"],
+  "window.density.editorTabHeight": "compact",
+  "workbench.activityBar.location": "top",
+  "workbench.colorCustomizations": {
+    "editor.background": "#00000077",
+    "editor.lineHighlightBackground": "#00000000",
+    "editorLineNumber.foreground": "#ffffff22",
+    "foreground": "#ffffff66",
+    "input.background": "#000",
+    "list.activeSelectionBackground": "#ffffff22",
+    "list.hoverBackground": "#ffffff33",
+    "quickInput.background": "#000",
+    "sideBar.background": "#000",
+    "statusBar.background": "#000",
+    "tab.activeBackground": "#000",
+    "tab.activeBorderTop": "#fff",
+    "tab.border": "#000",
+    "tab.inactiveBackground": "#000"
+  },
+  "workbench.colorTheme": "Monokai Lite without underline",
+  "workbench.iconTheme": "material-icon-theme"
+}
