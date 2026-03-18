@@ -1,0 +1,17 @@
+{
+  "custom-ui-style.electron": {
+    "frame": false,
+    "titleBarStyle": "hiddenInset",
+    "trafficLightPosition": {
+      "x": 0,
+      "y": -14
+    }
+  },
+  "docker.extension.enableComposeLanguageServer": false,
+  "security.workspace.trust.untrustedFiles": "open",
+  "telemetry.telemetryLevel": "off",
+  "terminal.integrated.inheritEnv": false,
+  "update.mode": "manual",
+  "window.customTitleBarVisibility": "never",
+  "window.titleBarStyle": "native"
+}
