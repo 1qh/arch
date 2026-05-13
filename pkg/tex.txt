@@ -1,0 +1,4 @@
+perl-file-homedir
+perl-yaml-tiny
+texlive-lang
+texlive-meta

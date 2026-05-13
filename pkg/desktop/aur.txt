@@ -1,0 +1,5 @@
+brave-bin
+tex-fmt
+visual-studio-code-bin
+wl-gammarelay-rs
+wlrctl
