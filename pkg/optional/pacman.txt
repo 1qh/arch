@@ -1,0 +1,11 @@
+evince
+foliate
+gimagereader-gtk
+gthumb
+inkscape
+lapce
+mission-center
+nfs-utils
+pdfarranger
+qalculate-gtk
+umu-launcher
