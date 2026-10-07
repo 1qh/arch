@@ -1,0 +1,7 @@
+fd-find
+gh
+libssl-dev
+ncal
+ripgrep
+rustup
+sd

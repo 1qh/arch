@@ -1,0 +1,10 @@
+~/.bash_history
+~/.bun
+~/.cache
+~/.conda
+~/.lesshst
+~/.mamba
+~/.node_repl_history
+~/.npm
+~/.pixi
+~/__pycache__

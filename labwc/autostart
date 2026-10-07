@@ -1,0 +1,3 @@
+foot -s -c ~/arch/conf/foot.ini &
+wl-gammarelay-rs run &
+fnott -c ~/arch/conf/fnott.ini &
