@@ -1,0 +1,5 @@
+dspy-ai
+instructor
+langchain-experimental
+langextract
+prefect>3

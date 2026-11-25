@@ -1,0 +1,8 @@
+bun-bin
+lefthook-bin
+micromamba-bin
+ngrok
+ntfysh-bin
+paru-bin
+stu
+turso-cli-bin

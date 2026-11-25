@@ -1,0 +1,4 @@
+pre-commit:
+  jobs:
+    - run: ruff check --fix --unsafe-fixes && ruff format
+    - run: rm -rf .mypy_cache/ && bunx --bun @biomejs/biome@latest check --fix --unsafe

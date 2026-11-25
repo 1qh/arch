@@ -1,0 +1,34 @@
+◆     t  | AlwaysOnTop
+⌥     F4 | Close
+◆ ⇧   F4 | Exit
+◆     f  | Fullscreen
+⌥     ⎋  | Iconify
+◆ ⌃   c  | Inverted
+◆     k  | Keybinds
+◆     r  | Maximize
+⌥     ⇥  | NextWindow
+◆ ⇧   r  | Reconfigure
+◆     -  | ResizeRelative
+◆     =  | ResizeRelative
+◆ ⌃ ⇧ .  | Temperature -100
+◆ ⌃ ⇧ /  | Temperature 100
+◆ ⌃   .  | Temperature 3900
+◆ ⌃   /  | Temperature 6500
+◆     /  | brave-browser
+◆ ⇧   /  | brave-browser --incognito
+◆     b  | btop
+◆     .  | code
+◆ ⇧   .  | code [fuzzy]
+◆     e  | dua i
+⌥     ⎵  | fuzzel
+◆     g  | gh auth switch
+◆     ⏎  | ghostty
+◆     i  | nmtui-connect
+◆ ⇧   v  | sleep 2; wl-paste -n | wtype -
+◆ ⇧   g  | steam
+◆ ⇧   i  | wiremix -v output
+◆     v  | wl-paste -n | wtype -
+◆ ⌃   ⏎  | ~/arch/script/myala.sh
+◆ ⌃   [  | ~/arch/script/opacity.sh -1
+◆ ⌃   ]  | ~/arch/script/opacity.sh 1
+◆     q  | ⌃f → ⌃v
